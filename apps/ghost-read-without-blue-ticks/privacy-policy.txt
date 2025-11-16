@@ -1,0 +1,136 @@
+**Last updated:** 02-02-2026
+
+## Introduction
+
+This Privacy Policy describes how Ghost - Read without Blue Tick (“the App”) handles data and clarifies its scope and limitations.
+
+The App is designed with a **strict privacy-by-design approach** and **does not collect any user data**.
+
+---
+
+## No Data Collection – Ever
+
+**The App does not collect, process, store, transmit, or share any personal data or usage data.**
+
+Specifically:
+
+- No personal information
+- No messages content
+- No contacts
+- No metadata
+- No analytics
+- No tracking
+- No advertising identifiers
+- No crash reporting
+- No cookies
+- No third-party SDKs collecting data
+
+**Zero data is collected. Zero data leaves the device.**
+
+---
+
+## No Account, No Identification
+
+The App does **not** require account creation.
+
+As a result:
+
+- Users are not identifiable
+- No profiles exist
+- No authentication is performed
+- No data can be linked to a person
+
+We do not know who uses the App.
+
+---
+
+## Local-Only Processing
+
+Ghost operates **entirely on-device**.
+
+- The App does **not read, store, or transmit message content**
+- The App does **not access message history**
+- The App does **not intercept or retain communications**
+
+Any functionality provided by the App relies solely on **local device behavior and system-level interactions** permitted by the operating system.
+
+No data is uploaded.
+
+No data is synchronized.
+
+No data is sent to external servers.
+
+Uninstalling the App fully removes all locally stored App data.
+
+---
+
+## Permissions Disclaimer
+
+If the App requests system permissions (such as notification access), these permissions are used **solely to provide the App’s core functionality**.
+
+- Permissions are never used to collect or transmit data
+- No information is extracted, logged, or shared
+- All processing remains local to the device
+
+Users can revoke permissions at any time via system settings.
+
+---
+
+## Data Access, Deletion & Legal Requests
+
+Because the App **does not collect or store any data externally**:
+
+- We cannot access your data
+- We cannot retrieve, export, or delete data on request
+- We cannot respond to GDPR / CCPA data access or deletion requests, as we do not possess any data
+
+All data control remains solely with the user via their own device.
+
+---
+
+## Children’s Privacy
+
+The App is **not designed for children**.
+
+- The App does not target children
+- The App does not collect data from children
+- The App does not request or process any information identifying a child
+
+As no data collection occurs, no children’s personal data is processed.
+
+---
+
+## ⚠️ Usage & Responsibility Disclaimer
+
+Ghost does **not modify, interfere with, or guarantee the behavior of third-party messaging services**.
+
+- Read receipts, blue ticks, and visibility indicators are controlled by the respective messaging platforms
+- The App does **not bypass security, encryption, or platform safeguards**
+- Behavior may vary depending on device, OS version, and third-party apps
+
+You are solely responsible for how you use the App.
+
+---
+
+## Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- The App’s creators assume **no responsibility or liability** for messaging behavior, delivery status, or read receipt behavior
+- No guarantees are made regarding effectiveness, compatibility, or outcomes
+
+---
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be reflected in the App or its store listing.
+
+---
+
+## Contact
+
+If you have questions regarding this Privacy Policy:
+
+**Email:** hey@appkickstarter.com

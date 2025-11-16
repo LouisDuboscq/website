@@ -1,0 +1,90 @@
+**Last updated:** 02-02-2026
+
+## Introduction
+
+This Privacy Policy explains how **Protein Tracker app** (“the App”) handles user data.
+
+Your privacy is extremely important to us, and the App is designed with a **privacy-first approach**.
+
+---
+
+## Data Collection
+
+**Protein Tracker does not collect, store, transmit, or share any personal data.**
+
+- No personal information is collected
+- No analytics, tracking, or advertising SDKs are used
+- No data is sent to external servers
+- No data is shared with third parties
+
+**Zero data collected.**
+
+---
+
+## Account Creation
+
+The App **does not require account creation**.
+
+As a result:
+
+- We do not know who you are
+- We cannot identify individual users
+- We cannot access, retrieve, export, or delete your data on request
+
+All data entered in the App remains **only on your device**.
+
+---
+
+## Local Data Storage
+
+Any data you enter (such as protein intake, food logs, or personal notes) is:
+
+- Stored **locally on your phone**
+- Never uploaded or synchronized
+- Fully under your control
+
+Deleting the App will permanently delete all associated data from your device.
+
+---
+
+## Data Deletion & Access Requests
+
+Since **no data is collected or stored externally**, we:
+
+- Cannot access your data
+- Cannot delete or export your data on your behalf
+- Cannot respond to data access or deletion requests (GDPR/CCPA), as we do not hold any data
+
+---
+
+## Medical Disclaimer
+
+Protein Tracker is **not a medical application**.
+
+- The App is provided for **informational and educational purposes only**
+- It does **not** provide medical advice, diagnosis, or treatment
+- It does **not** replace professional medical advice
+
+Always consult a qualified healthcare professional before making dietary or health-related decisions.
+
+---
+
+## Children’s Privacy
+
+Protein Tracker does not knowingly collect any data from children or adults.
+
+As no data collection occurs, there are no child-specific data concerns.
+
+---
+
+## Changes to This Policy
+
+If this Privacy Policy changes, the updated version will be made available within the App or on its store listing.
+
+---
+
+## Contact
+
+If you have questions about this Privacy Policy, you may contact us at:
+
+**Email:** hey@appkickstarter.com

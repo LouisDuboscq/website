@@ -1,0 +1,123 @@
+**Last updated:** 02-02-2026
+
+---
+
+## Introduction
+
+This Privacy Policy describes how **Simple Macro Tracker** (“the App”) handles data and clarifies its scope and limitations.
+
+The App is designed with a **strict privacy-by-design approach** and **does not collect any user data**.
+
+---
+
+## No Data Collection – Ever
+
+**The App does not collect, process, store, transmit, or share any personal data or usage data.**
+
+Specifically:
+
+- No personal information
+- No food database syncing
+- No macro entries transmitted
+- No analytics
+- No tracking
+- No advertising identifiers
+- No crash reporting
+- No cookies
+- No third-party SDKs collecting data
+
+All macro entries remain strictly on your device.
+
+**Zero data is collected. Zero data leaves the device.**
+
+---
+
+## No Account, No Identification
+
+The App does **not** require account creation.
+
+As a result:
+
+- Users are not identifiable
+- No profiles exist
+- No authentication is performed
+- No cloud storage is used
+- No data can be linked to a person
+
+We do not know who uses the App.
+
+---
+
+## Local-Only Processing
+
+Simple Macro Tracker operates **entirely on-device**.
+
+- All macro entries are stored locally
+- All calculations are performed locally
+- No synchronization with external servers
+- No backup to remote databases
+- No external API calls
+
+Uninstalling the App permanently removes all stored data from the device.
+
+---
+
+## Data Access, Deletion & Legal Requests
+
+Because the App **does not collect or store any data externally**:
+
+- We cannot access your macro data
+- We cannot retrieve, export, or delete data remotely
+- We cannot respond to GDPR / CCPA data access or deletion requests, as we do not possess any user data
+
+All data control remains solely with the user via their own device.
+
+---
+
+## Children’s Privacy
+
+The App is **not specifically designed for children**.
+
+- The App does not knowingly collect data from children
+- No personal information is processed
+
+As no data collection occurs, no children’s personal data is stored or transmitted.
+
+---
+
+## Informational Disclaimer
+
+Simple Macro Tracker provides **informational tracking tools only**.
+
+- The App does not provide medical advice
+- The App does not replace professional healthcare consultation
+- Users are responsible for how they interpret and use their data
+
+Always consult a qualified healthcare provider for medical or nutritional concerns.
+
+---
+
+## Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- The App’s creators assume no responsibility for decisions made based on tracked data
+- No guarantees are made regarding accuracy, completeness, or fitness for a particular purpose
+
+Use of the App is at your own discretion.
+
+---
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be reflected in the App or its store listing.
+
+---
+
+## Contact
+
+If you have questions regarding this Privacy Policy:
+
+**Email:** hey@appkickstarter.com

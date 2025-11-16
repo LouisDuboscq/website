@@ -1,0 +1,133 @@
+**Last updated:** 02-02-2026
+
+## Introduction
+
+This Privacy Policy describes how Baby led weaning (“the App”) handles data and clarifies its scope and limitations.
+
+The App is designed with a **strict privacy-by-design approach** and **does not collect any user data**.
+
+---
+
+## No Data Collection – Ever
+
+**The App does not collect, process, store, transmit, or share any personal data or usage data.**
+
+Specifically:
+
+- No personal information
+- No child data
+- No analytics
+- No tracking
+- No advertising identifiers
+- No crash reporting
+- No cookies
+- No third-party SDKs collecting data
+
+**Zero data is collected. Zero data leaves the device.**
+
+---
+
+## No Account, No Identification
+
+The App does **not** require account creation.
+
+As a result:
+
+- Users are not identifiable
+- No profiles exist
+- No authentication is performed
+- No data can be linked to a person or a child
+
+We do not know who uses the App.
+
+---
+
+## Local-Only Storage
+
+Any information entered in the App (such as:
+
+- food exploration logs
+- meal notes
+- preferences
+- educational progress
+
+) is stored **exclusively on the user’s device**.
+
+- Data is never uploaded
+- Data is never synchronized
+- Data is never backed up to our servers
+
+Deleting the App permanently deletes all data stored by the App.
+
+---
+
+## Data Access, Deletion & Legal Requests
+
+Because the App **does not collect or store any data externally**:
+
+- We cannot access your data
+- We cannot retrieve, export, or delete data on request
+- We cannot respond to GDPR / CCPA data access or deletion requests, as we do not possess any data
+
+All data control remains solely with the user via their own device.
+
+---
+
+## Children’s Privacy
+
+The App may be used by parents or caregivers for educational purposes related to infant feeding.
+
+- The App does **not** collect data from children
+- The App does **not** request information identifying a child
+- The App does **not** transmit any information off the device
+
+As no data collection occurs, no children’s personal data is processed.
+
+---
+
+## ⚠️ Medical & Safety Disclaimer (Very Important)
+
+**Baby led weaning app is NOT a medical device or medical application.**
+
+- The App is for **informational and educational purposes only**
+- It does **not** provide medical advice, diagnosis, or treatment
+- It does **not** guarantee safety outcomes
+- It does **not** assess choking risks
+- It does **not** replace professional medical, nutritional, or pediatric advice
+
+Baby-Led Weaning involves **real risks**, including choking and allergic reactions.
+
+You are solely responsible for:
+
+- Supervising your child at all times
+- Ensuring foods are prepared safely and appropriately
+- Following guidance from qualified healthcare professionals
+
+Always consult a pediatrician, qualified healthcare provider, or certified nutrition professional before introducing solid foods to an infant.
+
+Use of the App is **entirely at your own risk**.
+
+---
+
+## Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- The App’s creators assume **no responsibility or liability** for injuries, health issues, or adverse outcomes
+- The App provides **no guarantees** regarding suitability, safety, or outcomes
+
+---
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be reflected in the App or its store listing.
+
+---
+
+## Contact
+
+If you have questions regarding this Privacy Policy:
+
+**Email:** hey@appkickstarter.com

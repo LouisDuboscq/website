@@ -1,0 +1,110 @@
+**Last updated:** 02/02/2026
+
+## Introduction
+
+This Privacy Policy explains how Simple body measurement app (“the App”) handles user data.
+
+The App is designed as a **simple body measurement logging tool** and follows a **privacy-by-design** approach.
+
+---
+
+## No Data Collection
+
+**The App does not collect, store, transmit, or share any personal data.**
+
+Specifically:
+
+- No personal information
+- No health data collected by us
+- No analytics
+- No tracking
+- No advertising identifiers
+- No third-party SDKs collecting data
+- No data sent to external servers
+
+**All data remains on the user’s device.**
+
+---
+
+## No Account Creation
+
+The App does **not** require account creation.
+
+- No registration
+- No login
+- No user identification
+- No profiles
+
+We do not know who uses the App and cannot identify individual users.
+
+---
+
+## Local-Only Storage
+
+Any information you choose to enter (such as body measurements or notes) is:
+
+- Stored **only on your device**
+- Never uploaded or synchronized
+- Never accessible to us
+
+Deleting the App will permanently delete all locally stored data.
+
+---
+
+## Data Access & Deletion Requests
+
+Since the App does not collect or store data externally:
+
+- We cannot access your data
+- We cannot retrieve, export, or delete data on request
+- We cannot respond to GDPR / CCPA data access or deletion requests, as no data is held by us
+
+All data control remains with the user via their own device.
+
+---
+
+## Non-Medical Use Disclaimer
+
+**Simple body measurement app is not a medical application or medical device.**
+
+- The App is provided for **informational and personal tracking purposes only**
+- It does **not** provide medical advice, diagnosis, or treatment
+- It does **not** assess health conditions or risks
+- It does **not** replace professional medical advice
+
+Always consult a qualified healthcare professional for medical or health-related concerns.
+
+---
+
+## Children’s Privacy
+
+The App does not knowingly collect data from children.
+
+As no data collection occurs, no personal or sensitive data related to children is processed.
+
+---
+
+## Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- The App’s creators assume no responsibility for decisions made based on data entered into the App
+- The App provides no guarantees regarding accuracy, outcomes, or interpretations
+
+Use of the App is entirely at your own risk.
+
+---
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be made available within the App or on its store listing.
+
+---
+
+## Contact
+
+If you have any questions about this Privacy Policy:
+
+**Email:** hey@appkickstarter.com
