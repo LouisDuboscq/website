@@ -1,0 +1,76 @@
+PRIVACY POLICY — BLACKOUT KIT
+
+Last updated: October 13, 2026
+
+This privacy policy applies to the mobile app "Blackout Kit" (package name com.appkickstarter.blackoutkit), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- Your household, your emergency kit and your progress stay on your phone. They are never sent to us or to anyone else.
+- There is no account, no advertising, no advertising ID, no analytics and no sale of data.
+- The App only sends data when you post or vote on the Ideas board (section 4), and only what you choose to write.
+
+
+2. DATA STORED ONLY ON YOUR DEVICE
+
+The following data is stored in the App's local storage on your phone. It never leaves your device, we cannot access it, and it is not backed up to our servers:
+
+- Your household: number of adults, children, babies and pets, type of home and floor, heating, and whether someone depends on an electric medical device (used only to size your kit on your phone).
+- Your kit: the items you tick, with the date you ticked them.
+- Your levels, trophies, the days you opened the App on special dates, and your settings.
+
+Deleting the App deletes all of this data.
+
+
+3. DATA THAT LEAVES YOUR DEVICE
+
+Ideas board — only what you post
+If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
+
+Nothing else is sent: we do not use any analytics, crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+
+
+4. DEVICE PERMISSIONS
+
+- Internet: only for the Ideas board (section 3). Your kit works fully offline.
+
+
+5. LEGAL BASES (GDPR)
+
+- Data stored on your device: not processed by us.
+- Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
+
+
+6. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+
+You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
+
+
+7. CHILDREN
+
+The App is not directed to children under 13 (or under 16 where local law requires) and we do not knowingly collect data from children.
+
+
+8. NOT AN OFFICIAL SERVICE
+
+The App is an independent preparedness tool based on public guidance (in France, the "Tous responsables" guide, SGDSN, 2025). It is not affiliated with any government and does not replace the instructions of the authorities. In an emergency, follow official instructions and call the emergency services.
+
+
+9. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new (such as purchases or crash reports). The date at the top shows the latest version, and important changes are announced in the App.
+
+
+10. CONTACT
+
+Louis Duboscq — Blackout Kit
+Email: hey@appkickstarter.com
