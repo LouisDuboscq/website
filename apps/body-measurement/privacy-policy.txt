@@ -1,110 +1,109 @@
-**Last updated:** 02/02/2026
+PRIVACY POLICY — BODY MEASUREMENT TRACKER
 
-## Introduction
+Last updated: October 13, 2026
 
-This Privacy Policy explains how Simple body measurement app (“the App”) handles user data.
+This privacy policy applies to the mobile app "Body Measurement Tracker" (Google Play listing "Body Measurement Tracker & BMI", package name com.appkickstarter.bodymeasurementstracker; App Store name "Body Measurements: Tape & BMI"), called "the App" below.
 
-The App is designed as a **simple body measurement logging tool** and follows a **privacy-by-design** approach.
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
 
----
+Contact: hey@appkickstarter.com
 
-## No Data Collection
 
-**The App does not collect, store, transmit, or share any personal data.**
+1. SUMMARY
 
-Specifically:
+- Your measurements, photos, notes, profile and health data stay on your phone. They are never sent to us or to anyone else.
+- There is no account, no advertising, no advertising ID and no sale of data.
+- The App only sends data in the cases listed in section 4: crash reports (only if you say yes), purchases, and the ideas & bugs board or cancellation survey (only what you choose to write).
 
-- No personal information
-- No health data collected by us
-- No analytics
-- No tracking
-- No advertising identifiers
-- No third-party SDKs collecting data
-- No data sent to external servers
 
-**All data remains on the user’s device.**
+2. DATA STORED ONLY ON YOUR DEVICE
 
----
+The following data is stored in the App's local database on your phone. It never leaves your device, we cannot access it, and it is not backed up to our servers:
 
-## No Account Creation
+- Body measurements you enter: weight, height, waist, hips, chest, shoulders, neck, arms, thighs, calves, forearms, body fat and custom measurements, with their dates and notes.
+- Your profile: age, sex, height and activity level (used to calculate BMI, body fat estimate, BMR, TDEE, waist-to-height ratio and water needs on your phone).
+- Progress photos you take or pick from your gallery.
+- Your settings, goals, reminders, streaks and trophies.
 
-The App does **not** require account creation.
+Images and videos you create in the Share feature are generated on your phone. They are only saved to your gallery or shared when you choose to do so, through the sharing app you pick.
 
-- No registration
-- No login
-- No user identification
-- No profiles
+Deleting the App deletes all of this data. You can also delete individual measurements and photos inside the App at any time.
 
-We do not know who uses the App and cannot identify individual users.
 
----
+3. HEALTH DATA (HEALTH CONNECT ON ANDROID, APPLE HEALTH ON IOS)
 
-## Local-Only Storage
+If you turn on "Import weigh-ins" (Settings > Health sync) and grant permission, the App reads the following health data:
 
-Any information you choose to enter (such as body measurements or notes) is:
+- Weight
+- Body fat percentage
 
-- Stored **only on your device**
-- Never uploaded or synchronized
-- Never accessible to us
+How this health data is used:
+- It is read only to add your weigh-ins (for example from a connected scale) to your measurement history and charts inside the App, including up to one year of past weigh-ins on the first sync.
+- It is stored only on your device, in the App's local database. It is never sent to a server, never shared with or sold to anyone, and never used for advertising, profiling or any purpose other than showing your own history.
+- The App never writes, changes or deletes any data in Health Connect or Apple Health.
+- Access is optional. You can turn it off in the App, and remove the permission at any time in Health Connect or in the iOS Health app. Weigh-ins already imported stay in the App until you delete them or the App.
 
-Deleting the App will permanently delete all locally stored data.
+The App's use of information received from Health Connect adheres to the Health Connect Permissions policy, including the Limited Use requirements.
 
----
 
-## Data Access & Deletion Requests
+4. DATA THAT LEAVES YOUR DEVICE
 
-Since the App does not collect or store data externally:
+a) Crash reports — only if you agree
+When you first open the App, you are asked whether crash reports may be sent. If you say yes, and only then, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
 
-- We cannot access your data
-- We cannot retrieve, export, or delete data on request
-- We cannot respond to GDPR / CCPA data access or deletion requests, as no data is held by us
+b) Purchases
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases.
 
-All data control remains with the user via their own device.
+c) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
 
----
+d) Cancellation survey — only what you answer
+If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored anonymously with Supabase to improve the App.
 
-## Non-Medical Use Disclaimer
+We do not use any analytics or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
-**Simple body measurement app is not a medical application or medical device.**
 
-- The App is provided for **informational and personal tracking purposes only**
-- It does **not** provide medical advice, diagnosis, or treatment
-- It does **not** assess health conditions or risks
-- It does **not** replace professional medical advice
+5. DEVICE PERMISSIONS
 
-Always consult a qualified healthcare professional for medical or health-related concerns.
+- Camera and photos: to take or pick progress photos (stored on your device), and to save share images or videos to your gallery when you ask.
+- Notifications: for the measurement and inactivity reminders you turn on. Reminders are scheduled on your phone; no data is sent.
+- Health Connect / Apple Health: see section 3.
+- Internet: only for the cases in section 4.
 
----
 
-## Children’s Privacy
+6. LEGAL BASES (GDPR)
 
-The App does not knowingly collect data from children.
+- Data stored on your device: not processed by us.
+- Crash reports: your consent, which you can withdraw at any time in the App.
+- Purchases: performance of the contract (your subscription).
+- Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
 
-As no data collection occurs, no personal or sensitive data related to children is processed.
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
 
----
 
-## Limitation of Liability
+7. RETENTION AND YOUR RIGHTS
 
-To the maximum extent permitted by law:
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
 
-- The App’s creators assume no responsibility for decisions made based on data entered into the App
-- The App provides no guarantees regarding accuracy, outcomes, or interpretations
+You can ask to access, correct or delete the data described in section 4 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
-Use of the App is entirely at your own risk.
 
----
+8. CHILDREN
 
-## Changes to This Policy
+The App is not directed to children under 13 (or under 16 where local law requires) and we do not knowingly collect data from children.
 
-This Privacy Policy may be updated from time to time.
 
-Any changes will be made available within the App or on its store listing.
+9. NOT A MEDICAL APP
 
----
+The App is a personal tracking tool. It is not a medical device and does not provide medical advice, diagnosis or treatment. Always consult a healthcare professional for health decisions.
 
-## Contact
 
-If you have any questions about this Privacy Policy:
+10. CHANGES TO THIS POLICY
 
-**Email:** hey@appkickstarter.com
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
+
+
+11. CONTACT
+
+Louis Duboscq — Body Measurement Tracker
+Email: hey@appkickstarter.com
