@@ -1,0 +1,93 @@
+PRIVACY POLICY — BREASTMILK STOCK
+
+Last updated: October 15, 2026
+
+This privacy policy applies to the mobile app "Breastmilk Stock" (Google Play and App Store name "Breastmilk Stock: Pump & Stash", package name com.appkickstarter.breastmilkstock), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- Your milk stock stays on your phone: containers, volumes, dates, storage places, daycare plan, feeds and settings are never sent to us or to anyone else.
+- There is no account, no advertising, no advertising ID and no sale of data.
+- The App only sends data in the cases listed in section 3: adding containers by voice with AI, purchases (when Premium is offered), and the ideas & bugs board or cancellation survey (only what you choose to write).
+
+
+2. DATA STORED ONLY ON YOUR DEVICE
+
+The following data is stored in the App's local database on your phone. It never leaves your device, we cannot access it, and it is not backed up to our servers:
+
+- Your milk containers: volume, pumping date and time, storage place (fridge, freezer, daycare), use-by date, labels, and what was drunk or thrown away.
+- Your storage rules (fridge, freezer and thawed durations), which you choose yourself.
+- Your daycare and care schedule, feeding rhythm and the first names you give to your children, if any.
+- Your settings, alerts and trophies.
+
+Images you create in the Share feature are generated on your phone. They are only saved to your photos or shared when you choose to do so, through the sharing app you pick.
+
+Deleting the App deletes all of this data.
+
+
+3. DATA THAT LEAVES YOUR DEVICE
+
+a) Adding containers by voice (AI) — only when you use it
+Speech is turned into text on your phone; the audio is never sent. When you dictate new containers (for example "three bags of 90 ml from this morning in the freezer"), that text and today's date are sent to our own server, which asks an AI service (OpenAI) to turn it into containers. Nothing else from your stock is sent, and the text is not stored by us. Avoid saying information you would not want to send. Dictating stock movements (drunk, thrown away, taken to daycare) is understood on your phone and sends nothing.
+
+b) Purchases — when Premium is offered
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases.
+
+c) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
+
+d) Cancellation survey — only what you answer
+If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored anonymously with Supabase to improve the App.
+
+We do not use any analytics, crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+
+
+4. DEVICE PERMISSIONS
+
+- Microphone and speech recognition: to dictate containers and stock movements. The audio stays on your phone (see section 3 a for the text of new containers).
+- Photos: to save the images you create in the Share feature, when you ask.
+- Notifications: for the use-by and daycare alerts you turn on. Alerts are scheduled on your phone; no data is sent.
+- Internet: only for the cases in section 3.
+
+
+5. LEGAL BASES (GDPR)
+
+- Data stored on your device: not processed by us.
+- Adding containers by voice: your request (you start the dictation).
+- Purchases: performance of the contract (your subscription).
+- Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
+
+
+6. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Dictated text is not kept by us after it is turned into containers. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
+
+You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
+
+
+7. CHILDREN
+
+The App is used by parents. It is not directed to children and we do not knowingly collect data from children. The App never asks for your baby's age.
+
+
+8. NOT A MEDICAL APP
+
+The App is a stock tracking tool. It does not give storage durations, quantities or medical advice: you choose your own storage rules. Always follow the guidance of your healthcare professional and your daycare.
+
+
+9. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
+
+
+10. CONTACT
+
+Louis Duboscq — Breastmilk Stock
+Email: hey@appkickstarter.com
