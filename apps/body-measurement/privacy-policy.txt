@@ -1,6 +1,6 @@
 PRIVACY POLICY — BODY MEASUREMENT TRACKER
 
-Last updated: October 13, 2026
+Last updated: October 18, 2026
 
 This privacy policy applies to the mobile app "Body Measurement Tracker" (Google Play listing "Body Measurement Tracker & BMI", package name com.appkickstarter.bodymeasurementstracker; App Store name "Body Measurements: Tape & BMI"), called "the App" below.
 
@@ -52,7 +52,7 @@ a) Crash reports — only if you agree
 When you first open the App, you are asked whether crash reports may be sent. If you say yes, and only then, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
 
 b) Purchases
-Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases.
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases. If you installed the App from an Apple Ads advertisement (App Store search ads), RevenueCat also receives from Apple which ad campaign and keyword led to the install (Apple's standard attribution data, iOS only). No advertising identifier is used and nothing is used to track you across other companies' apps or websites. Purpose: measuring our own ads.
 
 c) Ideas & bugs board — only what you post
 If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
