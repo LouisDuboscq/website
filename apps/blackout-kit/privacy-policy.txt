@@ -1,6 +1,6 @@
 PRIVACY POLICY — BLACKOUT KIT
 
-Last updated: October 13, 2026
+Last updated: October 18, 2026
 
 This privacy policy applies to the mobile app "Blackout Kit" (package name com.appkickstarter.blackoutkit), called "the App" below.
 
@@ -12,8 +12,9 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - Your household, your emergency kit and your progress stay on your phone. They are never sent to us or to anyone else.
-- There is no account, no advertising, no advertising ID, no analytics and no sale of data.
-- The App only sends data when you post or vote on the Ideas board (section 4), and only what you choose to write.
+- There is no account, no advertising in the App, no advertising ID, no analytics and no sale of data.
+- The App sends data only for purchases (to know whether you have Premium), to know which Apple Ads ad brought your
+  install, and when you post or vote on the Ideas board (section 3).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -29,7 +30,13 @@ Deleting the App deletes all of this data.
 
 3. DATA THAT LEAVES YOUR DEVICE
 
-Ideas board — only what you post
+a) Purchases — Premium
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases.
+
+b) Apple Ads attribution (iPhone only)
+If you installed the App from an Apple Ads ad, RevenueCat receives from Apple which campaign it was, to measure our ads. No advertising identifier is used and you are not tracked across apps or websites.
+
+c) Ideas board — only what you post
 If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
 
 Nothing else is sent: we do not use any analytics, crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
@@ -37,12 +44,14 @@ Nothing else is sent: we do not use any analytics, crash reporting or advertisin
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for the Ideas board (section 3). Your kit works fully offline.
+- Internet: only for purchases, Apple Ads attribution and the Ideas board (section 3). Your kit works fully offline.
 
 
 5. LEGAL BASES (GDPR)
 
 - Data stored on your device: not processed by us.
+- Purchases: performance of the contract (giving you Premium).
+- Apple Ads attribution: our legitimate interest in measuring our advertising, without any advertising identifier.
 - Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
@@ -50,7 +59,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 6. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Purchase records are kept by RevenueCat as long as needed to restore your purchases and for accounting obligations. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
@@ -67,7 +76,7 @@ The App is an independent preparedness tool based on public guidance (in France,
 
 9. CHANGES TO THIS POLICY
 
-We may update this policy, for example when the App starts sending something new (such as purchases or crash reports). The date at the top shows the latest version, and important changes are announced in the App.
+We may update this policy, for example when the App starts sending something new (such as crash reports). The date at the top shows the latest version, and important changes are announced in the App.
 
 
 10. CONTACT
