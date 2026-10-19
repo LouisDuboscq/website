@@ -1,6 +1,6 @@
 PRIVACY POLICY — BLACKOUT KIT
 
-Last updated: October 18, 2026
+Last updated: October 19, 2026
 
 This privacy policy applies to the mobile app "Blackout Kit" (package name com.appkickstarter.blackoutkit), called "the App" below.
 
@@ -12,9 +12,9 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - Your household, your emergency kit and your progress stay on your phone. They are never sent to us or to anyone else.
-- There is no account, no advertising in the App, no advertising ID, no analytics and no sale of data.
+- There is no account, no advertising in the App, no advertising ID and no sale of data. Anonymous usage statistics are sent only if you agree (section 3).
 - The App sends data only for purchases (to know whether you have Premium), to know which Apple Ads ad brought your
-  install, and when you post or vote on the Ideas board (section 3).
+  install, when you post or vote on the Ideas board, and usage statistics only if you agree (section 3).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -39,12 +39,15 @@ If you installed the App from an Apple Ads ad, RevenueCat receives from Apple wh
 c) Ideas board — only what you post
 If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
 
-Nothing else is sent: we do not use any analytics, crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+d) Usage statistics — only if you agree
+On the first launch, after you describe your household, the App asks whether anonymous usage statistics may be sent. What happened before your answer stays on your phone in the meantime: it is sent only if you say yes, and deleted if you say no. If you say yes, and only then, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) a few steps of the App, for example that a section of your kit is now complete (which section and which level), or that the household was saved or skipped — never your household, the items you tick or their quantities — together with a random identifier created for this install, the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features help, to improve the App. Retention: up to 1 year.
+
+Nothing else is sent: we do not use any crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for purchases, Apple Ads attribution and the Ideas board (section 3). Your kit works fully offline.
+- Internet: only for purchases, Apple Ads attribution, the Ideas board and usage statistics if you agree (section 3). Your kit works fully offline.
 
 
 5. LEGAL BASES (GDPR)
@@ -53,13 +56,14 @@ Nothing else is sent: we do not use any analytics, crash reporting or advertisin
 - Purchases: performance of the contract (giving you Premium).
 - Apple Ads attribution: our legitimate interest in measuring our advertising, without any advertising identifier.
 - Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+- Usage statistics: your consent, which you can withdraw at any time in the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
 
 
 6. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Purchase records are kept by RevenueCat as long as needed to restore your purchases and for accounting obligations. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Purchase records are kept by RevenueCat as long as needed to restore your purchases and for accounting obligations. Usage statistics are kept up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
