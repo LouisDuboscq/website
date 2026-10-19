@@ -1,6 +1,6 @@
 PRIVACY POLICY — BREASTMILK STOCK
 
-Last updated: October 18, 2026
+Last updated: October 19, 2026
 
 This privacy policy applies to the mobile app "Breastmilk Stock" (Google Play and App Store name "Breastmilk Stock: Pump & Stash", package name com.appkickstarter.breastmilkstock), called "the App" below.
 
@@ -13,7 +13,7 @@ Contact: hey@appkickstarter.com
 
 - Your milk stock stays on your phone: containers, volumes, dates, storage places, daycare plan, feeds and settings are never sent to us or to anyone else.
 - There is no account, no advertising, no advertising ID and no sale of data.
-- The App only sends data in the cases listed in section 3: adding containers by voice with AI, purchases (when Premium is offered), and the ideas & bugs board or cancellation survey (only what you choose to write).
+- The App only sends data in the cases listed in section 3: adding containers by voice with AI, purchases (when Premium is offered), the ideas & bugs board or cancellation survey (only what you choose to write), and anonymous usage statistics only if you agree to them.
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -44,7 +44,10 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 d) Cancellation survey — only what you answer
 If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored anonymously with Supabase to improve the App.
 
-We do not use any analytics, crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+e) Usage statistics — only if you agree
+The App asks once whether you agree to share anonymous usage statistics; you can change your answer at any time in Settings > What is sent. Until you answer, these events wait on your phone; if you say no, they are deleted and nothing is sent. If you say yes, the App sends to PostHog (PostHog Inc., EU cloud, servers in the European Union): the steps you go through (for example the welcome video watched, the Premium screen viewed or closed and the plan chosen, "milk added" with fridge or freezer — never a volume, a date, a note or anything about your baby), when the App is opened or put in the background, a random identifier created on your phone, the App version, your device model and operating system, language, time zone and network type. PostHog derives an approximate location (country, region, city) from your IP address when the data arrives; the IP address itself is not kept. There is no account, no profile and no session recording, and this data is not linked to your identity. Purpose: understanding which features are used and improving the App.
+
+We do not use any crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
 
 4. DEVICE PERMISSIONS
@@ -61,6 +64,7 @@ We do not use any analytics, crash reporting or advertising SDK, we do not track
 - Adding containers by voice: your request (you start the dictation).
 - Purchases: performance of the contract (your subscription).
 - Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
+- Usage statistics: your consent, which you can withdraw at any time in Settings > What is sent.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
 
