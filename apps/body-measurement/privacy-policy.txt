@@ -1,6 +1,6 @@
 PRIVACY POLICY — BODY MEASUREMENT TRACKER
 
-Last updated: October 18, 2026
+Last updated: October 19, 2026
 
 This privacy policy applies to the mobile app "Body Measurement Tracker" (Google Play listing "Body Measurement Tracker & BMI", package name com.appkickstarter.bodymeasurementstracker; App Store name "Body Measurements: Tape & BMI"), called "the App" below.
 
@@ -60,7 +60,10 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 d) Cancellation survey — only what you answer
 If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored anonymously with Supabase to improve the App.
 
-We do not use any analytics or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+e) Usage statistics — only if you agree
+When you first open the App (or the first time after an update that adds this question), you are asked whether anonymous usage statistics may be sent. If you say yes, and only then, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through, for example the onboarding video, which plan you look at on the Premium screen, or that a measurement was saved — never its value, and never your measurements, photos, notes or profile — together with a random identifier created for this install, the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+
+We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
 
 5. DEVICE PERMISSIONS
@@ -74,7 +77,7 @@ We do not use any analytics or advertising SDK, we do not track you across apps 
 6. LEGAL BASES (GDPR)
 
 - Data stored on your device: not processed by us.
-- Crash reports: your consent, which you can withdraw at any time in the App.
+- Crash reports and usage statistics: your consent, which you can withdraw at any time in the App.
 - Purchases: performance of the contract (your subscription).
 - Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
 
@@ -83,7 +86,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 7. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 4 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
