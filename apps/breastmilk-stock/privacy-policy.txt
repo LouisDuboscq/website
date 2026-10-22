@@ -11,14 +11,14 @@ Contact: hey@appkickstarter.com
 
 1. SUMMARY
 
-- Your milk stock stays on your phone: containers, volumes, dates, storage places, daycare plan, feeds and settings are never sent to us or to anyone else, unless you turn on the optional cloud backup (section 3 f).
+- Your milk stock stays on your phone: containers, volumes, dates, storage places, daycare plan, feeds and settings are never sent to us or to anyone else, unless you turn on the optional cloud backup (section 3 g).
 - An account is optional: you only create one, with your email address, to turn on the backup. There is no advertising, no advertising ID and no sale of data.
 - The App only sends data in the cases listed in section 3: adding containers by voice with AI, purchases (when Premium is offered), the ideas & bugs board or cancellation survey (only what you choose to write), crash reports and anonymous usage statistics only if you agree to them, and your cloud backup only if you turn it on.
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
 
-The following data is stored in the App's local database on your phone. Unless you turn on the cloud backup (section 3 f), it never leaves your device, we cannot access it, and it is not backed up to our servers:
+The following data is stored in the App's local database on your phone. Unless you turn on the cloud backup (section 3 g), it never leaves your device, we cannot access it, and it is not backed up to our servers:
 
 - Your milk containers: volume, pumping date and time, storage place (fridge, freezer, daycare), use-by date, labels, and what was drunk or thrown away.
 - Your storage rules (fridge, freezer and thawed durations), which you choose yourself.
