@@ -1,6 +1,6 @@
 PRIVACY POLICY — BODY MEASUREMENT TRACKER
 
-Last updated: October 19, 2026
+Last updated: October 23, 2026
 
 This privacy policy applies to the mobile app "Body Measurement Tracker" (Google Play listing "Body Measurement Tracker & BMI", package name com.appkickstarter.bodymeasurementstracker; App Store name "Body Measurements: Tape & BMI"), called "the App" below.
 
@@ -13,7 +13,7 @@ Contact: hey@appkickstarter.com
 
 - Your measurements, photos, notes, profile and health data stay on your phone. They are never sent to us or to anyone else.
 - There is no account, no advertising, no advertising ID and no sale of data.
-- The App only sends data in the cases listed in section 4: crash reports (only if you say yes), purchases, and the ideas & bugs board or cancellation survey (only what you choose to write).
+- The App only sends data in the cases listed in section 4: crash reports and anonymous usage statistics (on by default, you can turn them off at any time), purchases, and the ideas & bugs board or cancellation survey (only what you choose to write).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -48,8 +48,8 @@ The App's use of information received from Health Connect adheres to the Health 
 
 4. DATA THAT LEAVES YOUR DEVICE
 
-a) Crash reports — only if you agree
-When you first open the App, you are asked whether crash reports may be sent. If you say yes, and only then, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
+a) Crash reports — on by default, you can turn them off
+After the Premium screen on your first launch, a short screen tells you about crash reports and usage statistics and lets you turn them off ("Turn off"); you can also turn them off at any time in Settings > Privacy > "What is sent". If you said no in an earlier version of the App, that choice is kept. The App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
 
 b) Purchases
 Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases. If you installed the App from an Apple Ads advertisement (App Store search ads), RevenueCat also receives from Apple which ad campaign and keyword led to the install (Apple's standard attribution data, iOS only). No advertising identifier is used and nothing is used to track you across other companies' apps or websites. Purpose: measuring our own ads.
@@ -60,8 +60,8 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 d) Cancellation survey — only what you answer
 If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored anonymously with Supabase to improve the App.
 
-e) Usage statistics — only if you agree
-When you first open the App, right after the Premium screen (or the first time after an update that adds this question), you are asked whether anonymous usage statistics may be sent. What happened before your answer (for example that the video was watched) stays on your phone in the meantime: it is sent only if you say yes, and deleted if you say no. If you say yes, and only then, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through, for example the onboarding video, which plan you look at on the Premium screen, or that a measurement was saved — never its value, and never your measurements, photos, notes or profile — together with a random identifier created for this install, the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+e) Usage statistics — anonymous, on by default, you can turn them off
+Unless you turn them off (see a) above), the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through, for example the onboarding video, which plan you look at on the Premium screen, or that a measurement was saved — never its value, and never your measurements, photos, notes or profile — together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
 
 We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
@@ -77,7 +77,8 @@ We do not use any advertising SDK, we do not track you across apps or websites, 
 6. LEGAL BASES (GDPR)
 
 - Data stored on your device: not processed by us.
-- Crash reports and usage statistics: your consent, which you can withdraw at any time in the App.
+- Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Purchases: performance of the contract (your subscription).
 - Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
 

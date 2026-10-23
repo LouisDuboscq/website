@@ -1,6 +1,6 @@
 PRIVACY POLICY — BLACKOUT KIT
 
-Last updated: October 19, 2026
+Last updated: October 23, 2026
 
 This privacy policy applies to the mobile app "Blackout Kit" (package name com.appkickstarter.blackoutkit), called "the App" below.
 
@@ -12,9 +12,9 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - Your household, your emergency kit and your progress stay on your phone. They are never sent to us or to anyone else.
-- There is no account, no advertising in the App, no advertising ID and no sale of data. Anonymous usage statistics are sent only if you agree (section 3).
+- There is no account, no advertising in the App, no advertising ID and no sale of data. Anonymous usage statistics are on by default and you can turn them off at any time (section 3).
 - The App sends data only for purchases (to know whether you have Premium), to know which Apple Ads ad brought your
-  install, when you post or vote on the Ideas board, and usage statistics only if you agree (section 3).
+  install, when you post or vote on the Ideas board, and anonymous usage statistics unless you turn them off (section 3).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -39,15 +39,15 @@ If you installed the App from an Apple Ads ad, RevenueCat receives from Apple wh
 c) Ideas board — only what you post
 If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
 
-d) Usage statistics — only if you agree
-On the first launch, after you describe your household, the App asks whether anonymous usage statistics may be sent. What happened before your answer stays on your phone in the meantime: it is sent only if you say yes, and deleted if you say no. If you say yes, and only then, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) a few steps of the App, for example that a section of your kit is now complete (which section and which level), or that the household was saved or skipped — never your household, the items you tick or their quantities — together with a random identifier created for this install, the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features help, to improve the App. Retention: up to 1 year.
+d) Usage statistics — anonymous, on by default, you can turn them off
+On the first launch, after you describe your household, a short screen tells you about usage statistics and lets you turn them off ("Turn off"); you can also turn them off at any time in the App's settings. If you said no in an earlier version of the App, that choice is kept. Unless you turn them off, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) a few steps of the App, for example that a section of your kit is now complete (which section and which level), or that the household was saved or skipped — never your household, the items you tick or their quantities — together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features help, to improve the App. Retention: up to 1 year.
 
 Nothing else is sent: we do not use any crash reporting or advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for purchases, Apple Ads attribution, the Ideas board and usage statistics if you agree (section 3). Your kit works fully offline.
+- Internet: only for purchases, Apple Ads attribution, the Ideas board and usage statistics unless you turn them off (section 3). Your kit works fully offline.
 
 
 5. LEGAL BASES (GDPR)
@@ -56,7 +56,7 @@ Nothing else is sent: we do not use any crash reporting or advertising SDK, we d
 - Purchases: performance of the contract (giving you Premium).
 - Apple Ads attribution: our legitimate interest in measuring our advertising, without any advertising identifier.
 - Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
-- Usage statistics: your consent, which you can withdraw at any time in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
 
