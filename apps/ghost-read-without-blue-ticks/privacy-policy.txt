@@ -1,6 +1,6 @@
 PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-Last updated: October 25, 2026 (Ideas & bugs board)
+Last updated: October 25, 2026 (history of all notifications)
 
 This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
@@ -12,6 +12,7 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - The App reads the notifications of the messaging apps you choose, to show your messages without opening those apps. These messages are stored only on your phone. They are never sent to us or to anyone else.
+- If the notification history is on, the App also keeps the notifications of your other apps for 7 days, on your phone only (section 2).
 - There is no account and no cloud sync. Messages are excluded from Google backups.
 - The Ideas & bugs board receives what you post and an anonymous device identifier (section 5).
 - The free version shows ads from Google AdMob. To show and measure them, Google receives your device's advertising ID, IP address and ad interactions, never your messages (section 4).
@@ -26,7 +27,9 @@ The App asks for Android's notification access. With it, the App reads the notif
 - The message text, as shown in the notification
 - The time of the message
 
-The App ignores the content of notifications from apps you have not enabled. It does not open your messaging apps and does not read your contacts, your photos or your message history: only what the notifications show. It never replies, never marks messages as read in the original app and never sends anything on your behalf.
+Notification history (on by default, can be turned off in Settings > Notifications > "History of all notifications"): the App also keeps the notifications of your other apps (for example shopping, news or social apps) so you can find one again after dismissing it. For each one it keeps the app's name, the title, the text and the time, as shown in the notification, and whether you dismissed it. Ongoing notifications (music, downloads, navigation, calls) and system notifications are not kept. These notifications are deleted automatically after 7 days, and you can clear them at any time in the History tab. If you choose "Hide on phone" for an app, the App removes that app's notifications from your phone and keeps them in the History tab only.
+
+Apart from the messaging apps you enable and the notification history, the App ignores the content of notifications. It does not open your messaging apps and does not read your contacts, your photos or your message history: only what the notifications show. It never replies, never marks messages as read in the original app and never sends anything on your behalf.
 
 If you turn on "Intercept notifications", the App hides the original notification and shows its own instead, on your phone only.
 
@@ -38,6 +41,7 @@ You can disable an app in the App's settings, and remove notification access at 
 The following data is stored in the App's local database on your phone. It never leaves your device and we cannot access it:
 
 - The messages captured as described in section 2, with their read, pinned and deleted state
+- The notification history described in section 2 (kept 7 days)
 - Your settings: enabled apps, how long messages are kept (7, 30 or 90 days, or forever), notification preferences
 - Technical information about notifications the App could not read (app name and reason, never the content), to improve support for messaging apps
 
