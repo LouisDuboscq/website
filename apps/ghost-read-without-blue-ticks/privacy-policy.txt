@@ -73,7 +73,7 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write 
 To fix bugs and see which features help, the App sends, unless you turn them off:
 - Crash reports to Sentry (Functional Software, Inc., sentry.io): what went wrong when the App crashes or hits an error, your phone model, system and App version, the screens used just before (never their content), how fast the App starts. Purpose: finding and fixing bugs. Retention: up to 90 days.
 - Anonymous usage statistics to PostHog (PostHog Inc., posthog.com, servers in the European Union): which features are used (for example that the notification access was granted, that a conversation was opened in WhatsApp or Telegram, that a reward video was watched), a random identifier created for this install and renewed after 13 months, your phone model, system, App version, language, time zone and network type. PostHog works out your country from your internet address; only the country is kept. No profile is built and there is no screen recording. Retention: up to 1 year.
-These reports never contain your messages, their senders, your conversations or your contacts. A notice tells you about them when you first use the App, and you can turn each of them off at any time in Settings > What is sent.
+These reports never contain your messages, their senders, your conversations or your contacts. They are on by default and this policy is how you are informed about them: you can turn each of them off at any time in Settings > What is sent.
 
 
 7. DEVICE PERMISSIONS
