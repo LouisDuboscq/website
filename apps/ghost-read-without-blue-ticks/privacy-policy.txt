@@ -1,136 +1,106 @@
-**Last updated:** 02-02-2026
+PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-## Introduction
+Last updated: October 25, 2026
 
-This Privacy Policy describes how Ghost - Read without Blue Tick (“the App”) handles data and clarifies its scope and limitations.
+This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
-The App is designed with a **strict privacy-by-design approach** and **does not collect any user data**.
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
 
----
+Contact: hey@appkickstarter.com
 
-## No Data Collection – Ever
 
-**The App does not collect, process, store, transmit, or share any personal data or usage data.**
+1. SUMMARY
 
-Specifically:
+- The App reads the notifications of the messaging apps you choose, to show your messages without opening those apps. These messages are stored only on your phone. They are never sent to us or to anyone else.
+- There is no account, no server of ours and no cloud sync. Messages are excluded from Google backups.
+- The free version shows ads from Google AdMob. To show and measure them, Google receives your device's advertising ID, IP address and ad interactions, never your messages (section 4).
 
-- No personal information
-- No messages content
-- No contacts
-- No metadata
-- No analytics
-- No tracking
-- No advertising identifiers
-- No crash reporting
-- No cookies
-- No third-party SDKs collecting data
 
-**Zero data is collected. Zero data leaves the device.**
+2. NOTIFICATION ACCESS
 
----
+The App asks for Android's notification access. With it, the App reads the notifications posted by the messaging apps you enable in the App (for example WhatsApp, Telegram, Messenger, Signal or Instagram). From these notifications it keeps:
 
-## No Account, No Identification
+- The name of the messaging app
+- The sender's name and the conversation or group name, as shown in the notification
+- The message text, as shown in the notification
+- The time of the message
 
-The App does **not** require account creation.
+The App ignores the content of notifications from apps you have not enabled. It does not open your messaging apps and does not read your contacts, your photos or your message history: only what the notifications show. It never replies, never marks messages as read in the original app and never sends anything on your behalf.
 
-As a result:
+If you turn on "Intercept notifications", the App hides the original notification and shows its own instead, on your phone only.
 
-- Users are not identifiable
-- No profiles exist
-- No authentication is performed
-- No data can be linked to a person
+You can disable an app in the App's settings, and remove notification access at any time in Android settings.
 
-We do not know who uses the App.
 
----
+3. DATA STORED ONLY ON YOUR DEVICE
 
-## Local-Only Processing
+The following data is stored in the App's local database on your phone. It never leaves your device and we cannot access it:
 
-Ghost operates **entirely on-device**.
+- The messages captured as described in section 2, with their read, pinned and deleted state
+- Your settings: enabled apps, how long messages are kept (7, 30 or 90 days, or forever), notification preferences
+- Technical information about notifications the App could not read (app name and reason, never the content), to improve support for messaging apps
 
-- The App does **not read, store, or transmit message content**
-- The App does **not access message history**
-- The App does **not intercept or retain communications**
+This data is excluded from Google backups and device-to-device transfers. Messages are deleted automatically after the period you choose. You can delete them at any time in the App (Settings > Clear all messages). Deleting the App deletes all of this data.
 
-Any functionality provided by the App relies solely on **local device behavior and system-level interactions** permitted by the operating system.
+If you use "Export messages", the file is created on your phone and saved where you choose. It is only shared if you share it yourself.
 
-No data is uploaded.
 
-No data is synchronized.
+4. DATA THAT LEAVES YOUR DEVICE: ADVERTISING
 
-No data is sent to external servers.
+The free version of the App shows native ads between your conversations, provided by Google AdMob (Google Ireland Limited / Google LLC). To request, show and measure these ads and to prevent fraud, the Google Mobile Ads SDK sends to Google:
 
-Uninstalling the App fully removes all locally stored App data.
+- Your device's advertising ID (or, if you have deleted it, an app set ID), your IP address and the approximate location derived from it
+- Your phone model, operating system, language and the App version
+- Ad interactions: which ads were shown and clicked
 
----
+Ad requests never contain your messages, the names of your contacts or conversations, or anything you read in the App.
 
-## Permissions Disclaimer
+Consent (European Economic Area, United Kingdom, Switzerland and regulated US states): before any ad is requested, the App shows Google's consent message (User Messaging Platform, IAB TCF). You choose whether your data may be used for personalized ads; you can change your choice at any time in Settings > Ad privacy choices. Without consent, Google may serve non-personalized or limited ads. Everywhere, you can reset or delete your advertising ID, or opt out of ads personalization, in your Android settings.
 
-If the App requests system permissions (such as notification access), these permissions are used **solely to provide the App’s core functionality**.
+How Google uses this data: https://policies.google.com/technologies/partner-sites
 
-- Permissions are never used to collect or transmit data
-- No information is extracted, logged, or shared
-- All processing remains local to the device
+We do not sell your data, we do not share your messages with anyone, and the App uses no analytics or crash reporting service.
 
-Users can revoke permissions at any time via system settings.
 
----
+5. DEVICE PERMISSIONS
 
-## Data Access, Deletion & Legal Requests
+- Notification access: to read messaging apps' notifications (section 2).
+- Notifications (Android 13 and later): only if you turn on deletion warnings or "Intercept notifications". Scheduled on your phone; no data is sent.
+- Biometrics: only if you lock the App with your fingerprint or face, checked by Android; the App never receives your biometric data.
+- Internet and advertising ID: only for ads (section 4).
 
-Because the App **does not collect or store any data externally**:
 
-- We cannot access your data
-- We cannot retrieve, export, or delete data on request
-- We cannot respond to GDPR / CCPA data access or deletion requests, as we do not possess any data
+6. LEGAL BASES (GDPR)
 
-All data control remains solely with the user via their own device.
+- Messages and settings stored on your device: not processed by us.
+- Ads: your consent for personalized ads and for storing or accessing information on your device, collected through Google's consent message; Google's own legal bases for non-personalized ads.
 
----
+Data sent to Google may be processed outside the European Union (in particular in the United States), under the safeguards Google offers (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
 
-## Children’s Privacy
 
-The App is **not designed for children**.
+7. RETENTION AND YOUR RIGHTS
 
-- The App does not target children
-- The App does not collect data from children
-- The App does not request or process any information identifying a child
+Data on your device stays there until it expires, you delete it, or you delete the App. Advertising data is kept by Google under its own policies.
 
-As no data collection occurs, no children’s personal data is processed.
+As we keep no data about you, we have nothing to access, correct or delete on our side. For advertising data, use your consent choices in the App, your Android ad settings, or Google's tools (https://myaccount.google.com/data-and-privacy). You can write to hey@appkickstarter.com with any question, and complain to your data protection authority (in France: the CNIL).
 
----
 
-## ⚠️ Usage & Responsibility Disclaimer
+8. CHILDREN
 
-Ghost does **not modify, interfere with, or guarantee the behavior of third-party messaging services**.
+The App is intended for adults (18 and over). It is not directed to children and we do not knowingly collect data from children.
 
-- Read receipts, blue ticks, and visibility indicators are controlled by the respective messaging platforms
-- The App does **not bypass security, encryption, or platform safeguards**
-- Behavior may vary depending on device, OS version, and third-party apps
 
-You are solely responsible for how you use the App.
+9. NOT AFFILIATED
 
----
+The App is not affiliated with, endorsed by or connected to WhatsApp, Meta, Telegram, Signal or any messaging service. Read receipts are controlled by each messaging app.
 
-## Limitation of Liability
 
-To the maximum extent permitted by law:
+10. CHANGES TO THIS POLICY
 
-- The App’s creators assume **no responsibility or liability** for messaging behavior, delivery status, or read receipt behavior
-- No guarantees are made regarding effectiveness, compatibility, or outcomes
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
 
----
 
-## Changes to This Policy
+11. CONTACT
 
-This Privacy Policy may be updated from time to time.
-
-Any changes will be reflected in the App or its store listing.
-
----
-
-## Contact
-
-If you have questions regarding this Privacy Policy:
-
-**Email:** hey@appkickstarter.com
+Louis Duboscq — Ghost: Read without Blue Ticks
+Email: hey@appkickstarter.com
