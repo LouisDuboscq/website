@@ -60,7 +60,7 @@ Consent (European Economic Area, United Kingdom, Switzerland and regulated US st
 
 How Google uses this data: https://policies.google.com/technologies/partner-sites
 
-We do not sell your data, we do not share your messages with anyone, and the App uses no analytics or crash reporting service.
+We do not sell your data and we do not share your messages with anyone.
 
 
 5. IDEAS & BUGS BOARD
@@ -68,46 +68,55 @@ We do not sell your data, we do not share your messages with anyone, and the App
 If you post or vote on the Ideas & bugs board, the App sends the text you write and its category, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Never include messages, names or personal information in your posts. Opening the board only sends the anonymous device identifier and your language, to show the requests in your language and mark your own votes and requests.
 
 
-6. DEVICE PERMISSIONS
+6. CRASH REPORTS AND USAGE STATISTICS
+
+To fix bugs and see which features help, the App sends, unless you turn them off:
+- Crash reports to Sentry (Functional Software, Inc., sentry.io): what went wrong when the App crashes or hits an error, your phone model, system and App version, the screens used just before (never their content), how fast the App starts. Purpose: finding and fixing bugs. Retention: up to 90 days.
+- Anonymous usage statistics to PostHog (PostHog Inc., posthog.com, servers in the European Union): which features are used (for example that the notification access was granted, that a conversation was opened in WhatsApp or Telegram, that a reward video was watched), a random identifier created for this install and renewed after 13 months, your phone model, system, App version, language, time zone and network type. PostHog works out your country from your internet address; only the country is kept. No profile is built and there is no screen recording. Retention: up to 1 year.
+These reports never contain your messages, their senders, your conversations or your contacts. A notice tells you about them when you first use the App, and you can turn each of them off at any time in Settings > What is sent.
+
+
+7. DEVICE PERMISSIONS
 
 - Notification access: to read messaging apps' notifications (section 2).
 - Notifications (Android 13 and later): only if you turn on deletion warnings or "Intercept notifications". Scheduled on your phone; no data is sent.
 - Biometrics: only if you lock the App with your fingerprint or face, checked by Android; the App never receives your biometric data.
-- Internet and advertising ID: for ads (section 4) and the Ideas & bugs board (section 5).
+- Internet and advertising ID: for ads (section 4), the Ideas & bugs board (section 5) and the reports of section 6.
 
 
-7. LEGAL BASES (GDPR)
+8. LEGAL BASES (GDPR)
 
 - Messages and settings stored on your device: not processed by us.
 - Ads: your consent for personalized ads and for storing or accessing information on your device, collected through Google's consent message; Google's own legal bases for non-personalized ads.
 - Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+- Crash reports: our legitimate interest in fixing bugs; usage statistics: anonymous audience measurement, exempt from consent under the CNIL guidelines. Both can be turned off in the App.
 
 Data sent to Google may be processed outside the European Union (in particular in the United States), under the safeguards Google offers (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
 
 
-8. RETENTION AND YOUR RIGHTS
+9. RETENTION AND YOUR RIGHTS
 
 Data on your device stays there until it expires, you delete it, or you delete the App. Advertising data is kept by Google under its own policies.
 
 Board posts are kept as long as the board exists, unless you ask us to delete them. Apart from them we keep no data about you. To delete a post or the email you gave, write to us with its text. For advertising data, use your consent choices in the App, your Android ad settings, or Google's tools (https://myaccount.google.com/data-and-privacy). You can write to hey@appkickstarter.com with any question, and complain to your data protection authority (in France: the CNIL).
 
 
-9. CHILDREN
+10. CHILDREN
 
 The App is intended for adults (18 and over). It is not directed to children and we do not knowingly collect data from children.
 
 
-10. NOT AFFILIATED
+11. NOT AFFILIATED
 
 The App is not affiliated with, endorsed by or connected to WhatsApp, Meta, Telegram, Signal or any messaging service. Read receipts are controlled by each messaging app.
 
 
-11. CHANGES TO THIS POLICY
+12. CHANGES TO THIS POLICY
 
 We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
 
 
-12. CONTACT
+13. CONTACT
 
 Louis Duboscq — Ghost: Read without Blue Ticks
 Email: hey@appkickstarter.com
