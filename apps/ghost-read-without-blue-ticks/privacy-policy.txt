@@ -48,7 +48,7 @@ If you use "Export messages", the file is created on your phone and saved where 
 
 4. DATA THAT LEAVES YOUR DEVICE: ADVERTISING
 
-The free version of the App shows native ads between your conversations, provided by Google AdMob (Google Ireland Limited / Google LLC). To request, show and measure these ads and to prevent fraud, the Google Mobile Ads SDK sends to Google:
+The free version of the App shows ads provided by Google AdMob (Google Ireland Limited / Google LLC): native ads between your conversations, banners at the bottom of the conversation and message screens, and, only if you choose to watch one, a short video that removes ads for 24 hours (the end of this period is stored on your phone). To request, show and measure these ads and to prevent fraud, the Google Mobile Ads SDK sends to Google:
 
 - Your device's advertising ID (or, if you have deleted it, an app set ID), your IP address and the approximate location derived from it
 - Your phone model, operating system, language and the App version
