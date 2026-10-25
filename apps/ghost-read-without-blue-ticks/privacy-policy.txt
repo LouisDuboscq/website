@@ -1,6 +1,6 @@
 PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-Last updated: October 25, 2026
+Last updated: October 25, 2026 (Ideas & bugs board)
 
 This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
@@ -12,7 +12,8 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - The App reads the notifications of the messaging apps you choose, to show your messages without opening those apps. These messages are stored only on your phone. They are never sent to us or to anyone else.
-- There is no account, no server of ours and no cloud sync. Messages are excluded from Google backups.
+- There is no account and no cloud sync. Messages are excluded from Google backups.
+- What you post on the Ideas & bugs board is sent to our feedback board (section 5), only if you post or vote.
 - The free version shows ads from Google AdMob. To show and measure them, Google receives your device's advertising ID, IP address and ad interactions, never your messages (section 4).
 
 
@@ -62,45 +63,51 @@ How Google uses this data: https://policies.google.com/technologies/partner-site
 We do not sell your data, we do not share your messages with anyone, and the App uses no analytics or crash reporting service.
 
 
-5. DEVICE PERMISSIONS
+5. IDEAS & BUGS BOARD (ONLY WHAT YOU POST)
+
+If you post or vote on the Ideas & bugs board, the App sends the text you write and its category, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Never include messages, names or personal information in your posts. Simply opening the board downloads the requests; nothing about you is sent until you post or vote.
+
+
+6. DEVICE PERMISSIONS
 
 - Notification access: to read messaging apps' notifications (section 2).
 - Notifications (Android 13 and later): only if you turn on deletion warnings or "Intercept notifications". Scheduled on your phone; no data is sent.
 - Biometrics: only if you lock the App with your fingerprint or face, checked by Android; the App never receives your biometric data.
-- Internet and advertising ID: only for ads (section 4).
+- Internet and advertising ID: for ads (section 4) and the Ideas & bugs board (section 5).
 
 
-6. LEGAL BASES (GDPR)
+7. LEGAL BASES (GDPR)
 
 - Messages and settings stored on your device: not processed by us.
 - Ads: your consent for personalized ads and for storing or accessing information on your device, collected through Google's consent message; Google's own legal bases for non-personalized ads.
+- Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 
 Data sent to Google may be processed outside the European Union (in particular in the United States), under the safeguards Google offers (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
 
 
-7. RETENTION AND YOUR RIGHTS
+8. RETENTION AND YOUR RIGHTS
 
 Data on your device stays there until it expires, you delete it, or you delete the App. Advertising data is kept by Google under its own policies.
 
-As we keep no data about you, we have nothing to access, correct or delete on our side. For advertising data, use your consent choices in the App, your Android ad settings, or Google's tools (https://myaccount.google.com/data-and-privacy). You can write to hey@appkickstarter.com with any question, and complain to your data protection authority (in France: the CNIL).
+Board posts are kept as long as the board exists, unless you ask us to delete them. Apart from them we keep no data about you. To delete a post or the email you gave, write to us with its text. For advertising data, use your consent choices in the App, your Android ad settings, or Google's tools (https://myaccount.google.com/data-and-privacy). You can write to hey@appkickstarter.com with any question, and complain to your data protection authority (in France: the CNIL).
 
 
-8. CHILDREN
+9. CHILDREN
 
 The App is intended for adults (18 and over). It is not directed to children and we do not knowingly collect data from children.
 
 
-9. NOT AFFILIATED
+10. NOT AFFILIATED
 
 The App is not affiliated with, endorsed by or connected to WhatsApp, Meta, Telegram, Signal or any messaging service. Read receipts are controlled by each messaging app.
 
 
-10. CHANGES TO THIS POLICY
+11. CHANGES TO THIS POLICY
 
 We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
 
 
-11. CONTACT
+12. CONTACT
 
 Louis Duboscq — Ghost: Read without Blue Ticks
 Email: hey@appkickstarter.com
