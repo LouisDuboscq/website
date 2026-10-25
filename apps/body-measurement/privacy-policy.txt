@@ -1,6 +1,6 @@
 PRIVACY POLICY — BODY MEASUREMENT TRACKER
 
-Last updated: October 23, 2026
+Last updated: October 26, 2026
 
 This privacy policy applies to the mobile app "Body Measurement Tracker" (Google Play listing "Body Measurement Tracker & BMI", package name com.appkickstarter.bodymeasurementstracker; App Store name "Body Measurements: Tape & BMI"), called "the App" below.
 
@@ -49,7 +49,7 @@ The App's use of information received from Health Connect adheres to the Health 
 4. DATA THAT LEAVES YOUR DEVICE
 
 a) Crash reports — on by default, you can turn them off
-After the Premium screen on your first launch, a short screen tells you about crash reports and usage statistics and lets you turn them off ("Turn off"); you can also turn them off at any time in Settings > Privacy > "What is sent". If you said no in an earlier version of the App, that choice is kept. The App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
+Crash reports and usage statistics are on by default, without a question at launch: you can turn them off at any time in Settings > Privacy > "What is sent". If you said no in an earlier version of the App, that choice is kept. The App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your measurements, photos, notes or profile. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
 
 b) Purchases
 Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases. If you installed the App from an Apple Ads advertisement (App Store search ads), RevenueCat also receives from Apple which ad campaign and keyword led to the install (Apple's standard attribution data, iOS only). No advertising identifier is used and nothing is used to track you across other companies' apps or websites. Purpose: measuring our own ads.
