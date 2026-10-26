@@ -1,6 +1,6 @@
 PRIVACY POLICY — SIMPLE PROTEIN TRACKER
 
-Last updated: October 26, 2026
+Last updated: October 26, 2026 (ideas & bugs board)
 
 This privacy policy applies to the Android app "Simple Protein Tracker" (Google Play listing "Simple Protein Tracker", French listing "Suivi Simple des Protéines", package name com.appkickstarter.proteintracker), called "the App" below.
 
@@ -45,12 +45,15 @@ Usage statistics are on by default, without a question at launch: you can turn t
 e) Crash reports — on by default, you can turn them off
 As for usage statistics (see d) above), you can turn crash reports off at any time in Settings > What is sent. Unless you turn them off, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens used just before the problem (their names only, never their content), how fast the App starts, and when it opens and closes. It never includes your entries, foods, presets or goal. Purpose: finding and fixing bugs. Retention: up to 90 days.
 
+f) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Do not include personal or health information in your posts.
+
 We do not sell your data and we do not share it with data brokers.
 
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for ads, purchases, usage statistics and crash reports (section 3). Advertising ID: only for ads (section 3 a).
+- Internet: only for ads, purchases, usage statistics, crash reports and the ideas & bugs board (section 3). Advertising ID: only for ads (section 3 a).
 
 
 5. LEGAL BASES (GDPR)
@@ -58,6 +61,7 @@ We do not sell your data and we do not share it with data brokers.
 - Data stored on your device: not processed by us.
 - Ads: your consent for personalized ads and for storing or accessing information on your device; Google's own legal bases for non-personalized ads.
 - Purchases: performance of the contract (your purchase or subscription).
+- Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 - Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 
@@ -66,7 +70,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 6. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Purchase records are kept by Google Play and RevenueCat as required for your purchases and by law. Advertising data is kept by Google under its own policies. Crash reports are kept up to 90 days, usage statistics up to 1 year.
+Data on your device stays there until you delete it or the App. Purchase records are kept by Google Play and RevenueCat as required for your purchases and by law. Advertising data is kept by Google under its own policies. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them (write to us with the text of your post or the email you used).
 
 You can ask questions or exercise your rights (access, deletion, objection) by writing to hey@appkickstarter.com. As there is no account, we only hold an anonymous purchase identifier. You can also complain to your data protection authority (in France: the CNIL).
 
