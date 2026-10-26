@@ -1,6 +1,6 @@
 PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-Last updated: October 26, 2026 (quiet phone and notification statistics)
+Last updated: October 26, 2026 (notification formats, VIP alerts)
 
 This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
@@ -81,6 +81,8 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write 
 To fix bugs and see which features help, the App sends, unless you turn them off:
 - Crash reports to Sentry (Functional Software, Inc., sentry.io): what went wrong when the App crashes or hits an error, your phone model, system and App version, the screens used just before (never their content), how fast the App starts. Purpose: finding and fixing bugs. Retention: up to 90 days.
 - Anonymous usage statistics to PostHog (PostHog Inc., posthog.com, servers in the European Union): which features are used (for example that the notification access was granted, that a conversation was opened in WhatsApp or Telegram, that a reward video was watched), a random identifier created for this install and renewed after 13 months, your phone model, system, App version, language, time zone and network type. PostHog works out your country from your internet address; only the country is kept. No profile is built and there is no screen recording. Retention: up to 1 year.
+
+With the same statistics, and to support as many messaging apps as possible, the App sends how message-like notifications are built, never what they say: the app's package name (for example com.whatsapp), the notification's format and category, the number of messages and of senders as ranges (such as "2-3"), the type and source of attachments (for example "image/jpeg" from "com.whatsapp"), the names of the technical fields the notification uses (never their values), and, for messaging apps, after how long (as a range) the app removed its notification. At most a few dozen such events a day. Never a message, a name, a title, a conversation or a time. Turning statistics off in the App stops them.
 These reports never contain your messages, their senders, your conversations or your contacts. They are on by default and this policy is how you are informed about them: you can turn each of them off at any time in Settings > What is sent.
 
 
@@ -92,7 +94,7 @@ Ghost Premium (yearly subscription with a free trial, or a one-time lifetime pur
 8. DEVICE PERMISSIONS
 
 - Notification access: to read messaging apps' notifications (section 2).
-- Notifications (Android 13 and later): only if you turn on deletion warnings, "Intercept notifications" or the summary of hidden notifications. Scheduled on your phone; no data is sent.
+- Notifications (Android 13 and later): only if you turn on deletion warnings, "Intercept notifications", the summary of hidden notifications or VIP alerts. Scheduled on your phone; no data is sent.
 - Biometrics: only if you lock the App with your fingerprint or face, checked by Android; the App never receives your biometric data.
 - Internet and advertising ID: for ads (section 4), the Ideas & bugs board (section 5) the reports of section 6 and Premium purchases (section 7).
 
