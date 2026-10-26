@@ -1,6 +1,6 @@
 PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-Last updated: October 26, 2026 (Premium purchases)
+Last updated: October 26, 2026 (backup file for a new phone)
 
 This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
@@ -50,6 +50,8 @@ The following data is stored in the App's local database on your phone. It never
 This data is excluded from Google backups and device-to-device transfers. Messages are deleted automatically after the period you choose. You can delete them at any time in the App (Settings > Clear all messages). Deleting the App deletes all of this data.
 
 If you use "Export messages", the file is created on your phone and saved where you choose. It is only shared if you share it yourself.
+
+If you use "Backup & new phone", the App puts your messages and notification history in a file encrypted with a password you choose (AES-256), saved where you choose (for example a drive or an e-mail to yourself). We never receive this file or its password and cannot open it: if you forget the password, the backup cannot be read. Restoring it on another phone adds its messages to that phone.
 
 
 4. DATA THAT LEAVES YOUR DEVICE: ADVERTISING
