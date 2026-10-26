@@ -1,0 +1,103 @@
+PRIVACY POLICY — GLOWEEE / GLOW
+
+Last updated: October 25, 2026
+
+This privacy policy applies to the mobile app published as "Gloweee: Weight loss habits" on Google Play (French listing "Gloweee: Perte de poids facile", package name com.appkickstarter.glow) and as "Workout & Mood Tracker: Glow" on the App Store (bundle ID com.lduboscq.glow.ios), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play and the App Store: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- Your habits, meals, water, fasting, sleep, steps, profile and other entries are stored on your phone.
+- When you use the meal photo analysis, the photo is sent to our server and to OpenAI to estimate its content (section 4a).
+- The App uses services to measure its use, report crashes, manage purchases and, on Android, show ads (section 4). There is no account.
+
+
+2. DATA STORED ON YOUR DEVICE
+
+The following data is stored in the App on your phone. It is not sent to our servers, except as described in section 4:
+
+- Your profile: for example gender, age, height, weight, goals and fitness level
+- Your entries: meals and calories, water and beverages, fasting periods, sleep, breathing sessions, habits, quests, streaks and notes
+- Your step count, read from your phone's step sensor (Android) when you allow it
+- Your settings and reminders (reminders are scheduled on your phone)
+
+Deleting the App deletes this data.
+
+
+3. HEALTH DATA
+
+Health and fitness data you enter or that the App reads from your phone's step sensor is used only to show your own progress inside the App. It is never sold, never used for advertising and never shared with advertisers. It is not sent to analytics providers: usage events say which feature was used (for example that the hydration screen was opened), never your values (weight, meals, amounts, sleep, steps). The only profile answer sent with these events is the gender you choose during onboarding.
+
+
+4. DATA THAT LEAVES YOUR DEVICE
+
+a) Meal photo analysis (only when you use it)
+If you take or pick a photo of a meal for analysis, the photo (and, when relevant, a short text description) is sent to our server function, which asks OpenAI (OpenAI, L.L.C.) to estimate the foods and calories. The result is shown in the App and saved on your phone. The photo is used only for this analysis; OpenAI processes it under its API terms, which exclude using API data to train its models. Do not photograph people or personal documents.
+
+b) Usage statistics
+The App sends usage events (screens viewed, features used, onboarding steps, paywall views and purchases), together with a random identifier, your phone model, operating system, App version, language and approximate location derived from your IP address, to:
+- Amplitude (Amplitude, Inc., EU data center) and its experiment service, to understand how the App is used and to run A/B tests
+- PostHog (PostHog Inc., US data center)
+- Google Analytics for Firebase (Google LLC)
+Purpose: improving the App. These events never contain your photos, notes or measurement values; the gender chosen during onboarding and your current streak may be included.
+
+c) Crash reports
+Crashes and errors, with your phone model, operating system and App version, are sent to Sentry (Functional Software, Inc.) to find and fix bugs.
+
+d) Purchases
+Subscriptions are processed by Google Play or the App Store; we never see your payment details. To show offers and check your Premium status, the App uses Adapty (Adapty Tech Inc.) and, on iOS, RevenueCat (RevenueCat, Inc.), which receive an anonymous user ID, your purchase history (product, dates, renewal status), your device type, App version and country, and, on Android, the advertising ID when available.
+
+e) Advertising (Android, free version)
+On Android, the free version may show ads provided by Google AdMob (Google Ireland Limited / Google LLC). The Google Mobile Ads SDK sends to Google your advertising ID (or app set ID), your IP address and approximate location, your phone model, operating system, language and App version, and ad interactions, to show, measure and (with your consent where required) personalize ads. Ad requests never contain your health data. You can reset or delete your advertising ID, or opt out of ads personalization, in your Android settings. The iOS version shows no ads.
+
+We do not sell your personal data and we do not share your health data with data brokers or advertisers.
+
+
+5. DEVICE PERMISSIONS
+
+- Camera and photos: to take or pick meal photos for analysis (section 4a).
+- Physical activity / motion (step sensor): to count your steps on your phone.
+- Notifications: for the reminders you turn on, scheduled on your phone.
+- Internet: for the services in section 4.
+Other permissions listed by the operating system are only requested when you use the related feature.
+
+
+6. LEGAL BASES (GDPR)
+
+- Data stored on your device: not processed by us.
+- Meal photo analysis: your request (performance of the service you ask for).
+- Usage statistics and crash reports: our legitimate interest in improving the App and fixing bugs; you can object by writing to us.
+- Purchases: performance of the contract (your subscription).
+- Ads: your consent for personalized ads where required; Google's own legal bases otherwise.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
+
+
+7. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Usage statistics are kept according to our providers' retention settings, crash reports up to 90 days, purchase records as long as required for your purchases and by law. You can ask to access or delete the data described in section 4, or object to its processing, by writing to hey@appkickstarter.com (tell us roughly when you used the App and on which device, as we have no account). You can also complain to your data protection authority (in France: the CNIL).
+
+
+8. CHILDREN
+
+The App is not directed to children under 13 (or under 16 where local law requires) and we do not knowingly collect data from children.
+
+
+9. NOT MEDICAL ADVICE
+
+The App is a wellness and habit tool. It is not a medical device and does not provide medical advice, diagnosis or treatment. Calorie estimates from photos are approximate. Consult a healthcare professional before changing your diet or fasting.
+
+
+10. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
+
+
+11. CONTACT
+
+Louis Duboscq — Gloweee / Glow
+Email: hey@appkickstarter.com
