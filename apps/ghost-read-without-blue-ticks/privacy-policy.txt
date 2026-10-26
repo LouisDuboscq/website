@@ -1,6 +1,6 @@
 PRIVACY POLICY — GHOST: READ WITHOUT BLUE TICKS
 
-Last updated: October 26, 2026 (notification formats, VIP alerts)
+Last updated: October 26, 2026 (pictures and attachments)
 
 This privacy policy applies to the Android app "Ghost: Read without Blue Ticks" (Google Play listing "Ghost: Read without Blue Ticks", package name com.appkickstarter.nobluetick), called "the App" below.
 
@@ -26,6 +26,7 @@ The App asks for Android's notification access. With it, the App reads the notif
 - The name of the messaging app
 - The sender's name and the conversation or group name, as shown in the notification
 - The message text, as shown in the notification
+- A picture or file joined to the message, when the messaging app puts it in its notification (copied into the App's private storage on your phone, never in Google backups; opened with your phone's apps, never sent)
 - The time of the message
 
 Notification history (on by default, can be turned off in Settings > Notifications > "History of all notifications"): the App also keeps the notifications of your other apps (for example shopping, news or social apps) so you can find one again after dismissing it. For each one it keeps the app's name, the title, the text and the time, as shown in the notification, and whether you dismissed it. Ongoing notifications (music, downloads, navigation, calls) and system notifications are not kept. These notifications are deleted automatically after 30 days (the free version shows the last 24 hours), and you can clear them at any time in the History tab. If you choose "Hide on phone" for an app, the App removes that app's notifications from your phone and keeps them in the History tab only. If you turn on "Quiet phone", the App does the same for every app except the messaging apps, the apps you keep, and alarms, calls and reminders; these notifications are kept in the History tab even if the history is off. The "Who's spamming" statistics (how many notifications each app sends, per day and per hour) are computed on your phone from this history; to show them over up to a year, the App keeps on your phone only the number of notifications of each app per day (never their content). At the times you choose (12:00 and 18:00 by default, Settings > Notifications > "Summary of hidden notifications"), the App shows one notification counting them per app. It is created on your phone; nothing is sent.
