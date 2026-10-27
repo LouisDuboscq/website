@@ -13,7 +13,7 @@ Contact: hey@appkickstarter.com
 
 - Your fasts, fasting days, weigh-ins, plan and settings are stored on your phone only. There is no account.
 - If you allow it, the App reads your weight from Health Connect (Android) or Apple Health (iOS), and keeps it on your phone (section 3).
-- The App sends anonymous crash reports and anonymous usage statistics, which you can turn off in Settings > What is sent, and uses a purchase service for Premium (section 4). It shows no ads.
+- The App sends anonymous crash reports and anonymous usage statistics, which you can turn off in Settings > What is sent, uses a purchase service for Premium, and sends what you choose to post on the Ideas & feedback board (section 4). It shows no ads.
 
 
 2. DATA STORED ON YOUR DEVICE
@@ -56,6 +56,9 @@ The App sends anonymous events about how it is used (for example: onboarding ste
 c) Purchases
 Subscriptions and the lifetime purchase are processed by Google Play or the App Store; we never see your payment details. To show offers and check your Premium status, the App uses RevenueCat (RevenueCat, Inc., United States), which receives an anonymous user ID, your purchase history (product, dates, renewal status), your device type, App version and country. On iOS, the App also passes Apple's attribution token (AdServices) to RevenueCat to know whether an install came from an Apple Search Ads campaign; this uses no advertising identifier and no tracking.
 
+d) Ideas & feedback board — only what you post
+If you post or vote on the Ideas & feedback board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
+
 The App shows no ads, uses no advertising identifier, and does not sell your personal data.
 
 
@@ -71,13 +74,14 @@ The App shows no ads, uses no advertising identifier, and does not sell your per
 - Data stored on your device: not processed by us.
 - Crash reports and usage statistics: our legitimate interest in fixing bugs and improving the App; you can turn them off at any time in the App or object by writing to us.
 - Purchases: performance of the contract (your subscription or purchase).
+- Ideas & feedback board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
 
 
 7. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics according to our provider's retention settings, purchase records as long as required for your purchases and by law. You can ask to access or delete the data described in section 4, or object to its processing, by writing to hey@appkickstarter.com (tell us roughly when you used the App and on which device, as there is no account). You can also complain to your data protection authority (in France: the CNIL).
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics according to our provider's retention settings, purchase records as long as required for your purchases and by law, board posts until you ask us to delete them. You can ask to access or delete the data described in section 4, or object to its processing, by writing to hey@appkickstarter.com (tell us roughly when you used the App and on which device, as there is no account). You can also complain to your data protection authority (in France: the CNIL).
 
 
 8. CHILDREN
