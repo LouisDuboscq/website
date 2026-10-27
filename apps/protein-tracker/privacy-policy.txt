@@ -1,6 +1,6 @@
 PRIVACY POLICY — SIMPLE PROTEIN TRACKER
 
-Last updated: October 26, 2026 (ideas & bugs board)
+Last updated: October 27, 2026 (barcode scan and food search)
 
 This privacy policy applies to the Android app "Simple Protein Tracker" (Google Play listing "Simple Protein Tracker", French listing "Suivi Simple des Protéines", package name com.appkickstarter.proteintracker), called "the App" below.
 
@@ -11,7 +11,7 @@ Contact: hey@appkickstarter.com
 
 1. SUMMARY
 
-- What you log (protein intake, foods, goals) stays on your phone. It is never sent to us or to anyone else.
+- What you log (protein intake, foods, goals) stays on your phone. It is never sent to us or to anyone else. When you scan a barcode or search a food, only that barcode or search text is sent to Open Food Facts to look the product up (section 3 g).
 - There is no account.
 - The free version shows ads from Google AdMob, and Premium purchases go through Google Play and RevenueCat (section 3).
 - Crash reports and anonymous usage statistics are on by default; you can turn them off at any time in Settings > What is sent (section 3 d and e).
@@ -48,12 +48,17 @@ As for usage statistics (see d) above), you can turn crash reports off at any ti
 f) Ideas & bugs board — only what you post
 If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Do not include personal or health information in your posts.
 
+g) Barcode scan and food search — Open Food Facts
+When you scan a pack's barcode or search a food by name, the App asks Open Food Facts (Open Food Facts association, openfoodfacts.org, an open food database) for that product: it sends the barcode or the text you typed, with the App's name, and, as for any internet request, your IP address. Nothing else: not your entries, your goal or an identifier. The camera image of the scan is read on your phone and never sent. Products you look up are kept on your phone so recent foods work offline. Open Food Facts' privacy policy: https://world.openfoodfacts.org/privacy
+
 We do not sell your data and we do not share it with data brokers.
 
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for ads, purchases, usage statistics, crash reports and the ideas & bugs board (section 3). Advertising ID: only for ads (section 3 a).
+- Internet: only for ads, purchases, usage statistics, crash reports, the ideas & bugs board and the barcode / food lookups (section 3).
+- Advertising ID: only for ads (section 3 a).
+- Camera: only while you scan a barcode, read on your phone, never recorded or sent.
 
 
 5. LEGAL BASES (GDPR)
@@ -61,6 +66,7 @@ We do not sell your data and we do not share it with data brokers.
 - Data stored on your device: not processed by us.
 - Ads: your consent for personalized ads and for storing or accessing information on your device; Google's own legal bases for non-personalized ads.
 - Purchases: performance of the contract (your purchase or subscription).
+- Barcode scan and food search: performance of the service you ask for (looking the product up).
 - Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 - Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
