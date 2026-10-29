@@ -1,6 +1,6 @@
 PRIVACY POLICY — MORSE CODE
 
-Last updated: October 23, 2026
+Last updated: October 29, 2026
 
 This privacy policy applies to the mobile app "Morse Code" (App Store name "Morse Code Translator & games", bundle ID com.lduboscq.Morse-Code; Google Play listing "Morse Code: Learn & Translate", package name com.appkickstarter.morsecode), called "the App" below.
 
@@ -48,10 +48,11 @@ We do not use any advertising SDK, we do not track you across apps or websites, 
 4. DEVICE PERMISSIONS AND FEATURES
 
 - Flashlight and vibration: to play Morse code with the light and vibration when you ask. Nothing is recorded or sent.
+- Camera and microphone: only in the Light decoder and Sound decoder tools, after you grant permission when you open the tool. The camera image and the sound are analysed on your phone, live, to read blinking light or beeps as Morse code. They are never recorded, stored or sent. Nothing is collected.
 - Notifications: for the practice reminder you turn on in Settings. Reminders are scheduled on your phone; no data is sent.
 - Internet: only for the cases in section 3.
 
-The App does not use the camera, the microphone, photos, contacts or location.
+The App does not use photos, contacts or location.
 
 
 5. CHILDREN
