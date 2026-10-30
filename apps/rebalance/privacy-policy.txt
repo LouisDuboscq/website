@@ -1,0 +1,97 @@
+PRIVACY POLICY — REBALANCE
+
+Last updated: October 30, 2026
+
+This privacy policy applies to the mobile app "Rebalance" (Google Play and App Store listing "Rebalance", package name and iOS bundle identifier com.appkickstarter.rebalance), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- Everything you enter (meals and snacks with their times, daily levers, cravings and energy ratings, waist measurements, quiz answers, program progress) stays on your phone. It is never sent to us or to anyone else.
+- There is no account, no advertising, no advertising ID and no sale of data.
+- The App does not read Health Connect or Apple Health.
+- The App only sends data in the cases listed in section 4: purchases, crash reports and anonymous usage statistics (on by default, you can turn them off), and the Ideas & bugs board (only what you choose to write).
+
+
+2. DATA STORED ONLY ON YOUR DEVICE
+
+The following data is stored in the App's local database or settings on your phone. It never leaves your device, we cannot access it, and it is not backed up to our servers:
+
+- Meals and snacks you note, with their times
+- The daily levers you tick
+- Your daily cravings and energy ratings (1 to 5) and the waist measurements you enter
+- Your onboarding quiz answers and your progress in the 21-day program
+- Your settings, theme and language
+
+Deleting the App deletes all of this data. You can also delete individual meals at any time in the App.
+
+
+3. HEALTH-RELATED INFORMATION
+
+The App is a wellness tool. The wellness information you enter (meals, cravings, energy, waist) is health-related, so we state it plainly: it is stored only on your device, it is never sent to a server, never shared with or sold to anyone, and never used for advertising or profiling. The App does not connect to Health Connect, Apple Health or any other health platform. Usage statistics only say that something was noted (for example that a meal or a rating was saved, or the length of a streak), never the time, the value or the content.
+
+
+4. DATA THAT LEAVES YOUR DEVICE
+
+a) Crash reports — on by default, you can turn them off
+The App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your meals, snacks, levers, ratings or measurements. You can turn this off at any time in Settings > What is sent. Purpose: finding and fixing bugs. Retention: up to 90 days.
+
+b) Purchases
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc., revenuecat.com), which receives an anonymous app user ID and your purchase history (product, dates, renewal status), your phone model, operating system and App version, your store country and your internet address. Never your meals, ratings or measurements. If you installed the App from an Apple Ads advertisement (App Store search ads), Apple may provide attribution data (which campaign led to the install) to measure our own ads; it is not used to track you. Purpose: unlocking Premium and restoring purchases. No advertising identifier is used and nothing is used to track you across other companies' apps or websites.
+
+c) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Do not include personal or health information in your posts. Opening the board only sends the anonymous device identifier and your language, to show the requests in your language and mark your own votes and requests.
+
+d) Usage statistics — anonymous, on by default, you can turn them off
+The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through and which features are used, together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, and the type of network. Events say only that an action happened, for example the kind of entry noted (meal or snack), the lever id and the streak length; never a time, a value, your meals, ratings or measurements. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > What is sent. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+
+We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+
+
+5. DEVICE PERMISSIONS
+
+- Internet: only for the cases in section 4.
+- The App asks for no camera, location, contacts, microphone or health permission.
+
+
+6. LEGAL BASES (GDPR)
+
+- Data stored on your device: not processed by us.
+- Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Purchases: performance of the contract (your subscription or purchase).
+- Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
+
+
+7. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+
+You can ask to access, correct or delete the data described in section 4 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
+
+
+8. CHILDREN
+
+The App is not directed to children under 13 (or under 16 where local law requires) and we do not knowingly collect data from children.
+
+
+9. NOT A MEDICAL APP
+
+The App is a wellness and habit tool. It is not a medical device and does not provide medical advice, diagnosis or treatment. It does not diagnose or treat insulin resistance, PCOS, perimenopause or any other condition. Always consult a healthcare professional for health decisions.
+
+
+10. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
+
+
+11. CONTACT
+
+Louis Duboscq — Rebalance
+Email: hey@appkickstarter.com
