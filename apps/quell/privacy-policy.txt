@@ -1,0 +1,100 @@
+PRIVACY POLICY — QUELL: NOTIFICATION BLOCKER
+
+Last updated: October 30, 2026
+
+This privacy policy applies to the Android app "Quell: Notification Blocker" (Google Play listing "Quell: Notification Blocker", package name com.appkickstarter.quell), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- The App reads the notifications of your other apps (app name, title and text, as shown in the notification) to count them and to mute, summarize or allow them. This content stays only on your phone. It is never sent to us or to anyone else.
+- There is no account and no cloud sync. The App's data is excluded from Google backups.
+- There is no advertising and no sale of data.
+- The App only sends data in the cases listed in section 4: purchases, crash reports and anonymous usage statistics (on by default, you can turn them off), and the Ideas & bugs board (only what you choose to write). None of them contains your notifications.
+
+
+2. NOTIFICATION ACCESS
+
+The App asks for Android's notification access, after a clear explanation shown before you grant it. This access is the core function of the App: it lets the App see the notifications posted by your apps so it can count them, mute the ones you choose, group them into summaries delivered at the times you set, and keep a log. For each notification, the App keeps:
+
+- The name of the app that posted it
+- The title and the text, as shown in the notification
+- The time, and what the App did with it (muted, summarized or allowed)
+
+The App does not open your other apps and does not read your contacts, your photos or your messages: only what notifications show. It never replies to messages and never sends anything on your behalf. Ongoing and system notifications are ignored.
+
+All of this stays on your phone. Notification content is never sent to a server, never shared with anyone, never used for advertising, and never used for any purpose other than showing you your own counts, summaries and log.
+
+Summaries are created on your phone: at the times you choose, the App shows one notification per summary. Nothing is sent. You can change the controls of each app or remove notification access at any time in the App or in Android settings.
+
+
+3. DATA STORED ONLY ON YOUR DEVICE
+
+The following data is stored in the App's local database on your phone. It never leaves your device and we cannot access it:
+
+- The notifications read as described in section 2 (kept up to 90 days), their daily counts, and the summaries
+- Your settings: the control chosen for each app (mute, summary or allow), summary hours, app lock, theme and language
+
+This data is excluded from Google backups and device-to-device transfers. It is deleted automatically after the retention period. Deleting the App deletes all of this data. If you turn on the app lock, your fingerprint or face is checked by Android; the App never receives your biometric data.
+
+
+4. DATA THAT LEAVES YOUR DEVICE
+
+a) Crash reports — on by default, you can turn them off
+The App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens and buttons used just before the problem (never their content), how fast the App starts, and when it opens and closes. It never includes your notifications, their texts, titles or the names of your apps. You can turn this off at any time in Settings > What is sent. Purpose: finding and fixing bugs. Retention: up to 90 days.
+
+b) Purchases
+Subscriptions and purchases are processed by Google Play; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc., revenuecat.com), which receives an anonymous app user ID and your purchase history (product, dates, renewal status), your phone model, operating system and App version, your store country and your internet address. Never your notifications or anything you read in the App. Purpose: unlocking Premium and restoring purchases. No advertising identifier is used and nothing is used to track you across other companies' apps or websites.
+
+c) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, reads the request, has it translated and keeps the translation on the board. Never include notifications, names or personal information in your posts. Opening the board only sends the anonymous device identifier and your language, to show the requests in your language and mark your own votes and requests.
+
+d) Usage statistics — anonymous, on by default, you can turn them off
+The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through and which features are used, together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, and the type of network. Events carry states and counts only (for example that a summary was opened or how many apps are muted), never the name or package of an app, a title or a text of a notification. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > What is sent. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+
+We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+
+
+5. DEVICE PERMISSIONS
+
+- Notification access: to read your apps' notifications on your phone (section 2).
+- Notifications (Android 13 and later): to show your summaries. Created on your phone; no data is sent.
+- Biometrics: only if you lock the App with your fingerprint or face, checked by Android.
+- Internet: only for the cases in section 4.
+
+
+6. LEGAL BASES (GDPR)
+
+- Data stored on your device: not processed by us.
+- Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Purchases: performance of the contract (your subscription or purchase).
+- Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
+
+
+7. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+
+You can ask to access, correct or delete the data described in section 4 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
+
+
+8. CHILDREN
+
+The App is not directed to children under 13 (or under 16 where local law requires) and we do not knowingly collect data from children.
+
+9. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
+
+
+10. CONTACT
+
+Louis Duboscq — Quell: Notification Blocker
+Email: hey@appkickstarter.com
