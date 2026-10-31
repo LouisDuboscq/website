@@ -2,7 +2,7 @@ PRIVACY POLICY — REBALANCE
 
 Last updated: October 30, 2026
 
-This privacy policy applies to the mobile app "Rebalance" (Google Play and App Store listing "Rebalance", package name and iOS bundle identifier com.appkickstarter.rebalance), called "the App" below.
+This privacy policy applies to the mobile app "Rebalance" (Google Play and App Store listing "Rebalance Insulin & Metabolism", package name and iOS bundle identifier com.appkickstarter.rebalance), called "the App" below.
 
 The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
 
