@@ -1,6 +1,6 @@
 PRIVACY POLICY — BLACKOUT KIT
 
-Last updated: October 23, 2026
+Last updated: October 31, 2026
 
 This privacy policy applies to the mobile app "Blackout Kit" (package name com.appkickstarter.blackoutkit), called "the App" below.
 
@@ -37,7 +37,7 @@ b) Apple Ads attribution (iPhone only)
 If you installed the App from an Apple Ads ad, RevenueCat receives from Apple which campaign it was, to measure our ads. No advertising identifier is used and you are not tracked across apps or websites.
 
 c) Ideas board — only what you post
-If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
+If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, sends only the text of the request to the AI service, has it translated and keeps the translation on the board. The AI service receives nothing else from you. Do not include personal or health information in your posts.
 
 d) Usage statistics — anonymous, on by default, you can turn them off
 On the first launch, after you describe your household, a short screen tells you about usage statistics and lets you turn them off ("Turn off"); you can also turn them off at any time in the App's settings. If you said no in an earlier version of the App, that choice is kept. Unless you turn them off, the App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) a few steps of the App, for example that a section of your kit is now complete (which section and which level), or that the household was saved or skipped — never your household, the items you tick or their quantities — together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, the type of network (Wi-Fi or mobile, and the carrier name), and when the App is opened or sent to the background. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > Privacy > "What is sent". Purpose: understanding which features help, to improve the App. Retention: up to 1 year.
