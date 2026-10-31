@@ -12,7 +12,7 @@ Contact: hey@appkickstarter.com
 1. SUMMARY
 
 - The App is made for learners of all ages, including children. It is in the Kids category of the App Store.
-- Your progress, settings and everything you type or translate stay on your phone. They are never sent to us or to anyone else.
+- Your progress, settings and everything you type, translate or key in Morse code stay on your phone. They are never sent to us or to anyone else. The only exception: on Android, the optional free text of the "Other" answer to the question "Why do you want to learn Morse?" in the first-launch questions (80 characters at most, can be left empty), see section 3 b). On iPhone and iPad, "Other" is a simple choice with no text.
 - There is no account, no sign-in, no advertising, no advertising ID, no tracking across apps or websites and no sale of data.
 - The App only sends the data listed in section 3: crash reports and anonymous usage statistics (which you can turn off), purchases, and what you choose to post on the Ideas board (on iPhone and iPad, behind the parental gate, with no email address). No artificial intelligence service receives anything from the App.
 - Purchases, links that leave the App and sharing are behind a parental gate (a question for adults).
@@ -24,7 +24,7 @@ The following data is stored on your phone only. It never leaves your device, we
 
 - Your learning progress: lessons and levels passed, stars, practice results, speed records and daily streak (including progress kept from earlier versions of the App).
 - Your settings: alphabet (Latin or Cyrillic), speed, tone, volume, light and vibration options, reminders.
-- Everything you type, translate or key in Morse code.
+- Everything you type, translate or key in Morse code (the only exception is described in section 3 b)).
 
 Audio files you create with the Export feature are generated on your phone. They are only shared when you choose to do so, through the sharing app you pick.
 
@@ -34,10 +34,10 @@ Deleting the App deletes all of this data.
 3. DATA THAT LEAVES YOUR DEVICE
 
 a) Crash reports
-When the App crashes or hits an error, it sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, the phone's operating system and App version, and the names of the screens opened just before the problem (never what you typed). It contains nothing that identifies you or your phone. You can turn this off at any time in Settings > "Anonymous statistics and crash reports". Purpose: finding and fixing bugs. Retention: up to 90 days.
+When the App crashes or hits an error, it sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, the phone's operating system and App version, and the names of the screens opened just before the problem (never what you typed). It contains nothing that identifies you or your phone. You can turn this off at any time in Settings > "What is sent". Purpose: finding and fixing bugs. Retention: up to 90 days.
 
 b) Anonymous usage statistics
-The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which features are used, for example that a lesson was finished, a practice mode or a tool was opened, or the Premium screen was shown — never what you typed or translated. Each event comes with a random identifier that is replaced by a new one every 30 days, the App version, the operating system, the language and the screen size. The App never sends the phone model, its name or identifiers, the network or carrier, the time zone or the internet address. PostHog may work out the country from the internet address when the statistics arrive; only the country is kept, not the address, region or city. There are no user profiles, no screen recording, and statistics are never linked to a person. You can turn this off at any time in Settings > "Anonymous statistics and crash reports" (the same switch as crash reports). Purpose: understanding which lessons and tools help, to improve the App. Retention: up to 1 year.
+The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which features are used, for example that a lesson was finished, a practice mode or a tool was opened, or the Premium screen was shown — never what you typed, translated or keyed. The only text that can come with these statistics is the optional "Other" answer to the first-launch question "Why do you want to learn Morse?": on Android only, if you choose "Other" and type a few words (80 characters at most; you can leave the field empty), that text is sent with your answer, only to help us understand why people learn Morse code and improve the App. On iPhone and iPad (Kids category), "Other" is a simple choice: no text field, nothing typed is ever sent. Each event comes with a random identifier (replaced by a new one every 30 days on iPhone and iPad), the App version, the operating system, the language and the screen size. On iPhone and iPad the App never sends the phone model, its name or identifiers, the network or carrier, the time zone or the internet address; on Android, the usual technical properties of the phone (model, system version, type of network connection) may also come with the events, never your name or any identifier of you or of the phone. PostHog may work out the country from the internet address when the statistics arrive; only the country is kept, not the address, region or city. There are no user profiles, no screen recording, and statistics are never linked to a person. You can turn this off at any time in Settings > "What is sent" (the "Anonymous statistics and crash reports" switches; statistics have their own switch). Purpose: understanding which lessons and tools help, to improve the App. Retention: up to 1 year.
 
 c) Purchases
 Subscriptions and purchases are processed by the App Store or Google Play; we never see payment details. A parental gate is shown before any purchase or restore. To check Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and the purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases.
@@ -63,7 +63,7 @@ The App does not use photos, contacts or location.
 The App is designed to be safe for children, in line with the App Store Kids category rules and with laws protecting children's privacy (such as COPPA in the United States and the GDPR in Europe):
 
 - No advertising and no third-party analytics that identify a child or a device: the statistics in section 3 b) are anonymous and contain nothing that describes the child or the phone.
-- No account and no chat. The only free text that can be sent is a suggestion posted on the Ideas board, behind the parental gate on iPhone and iPad, with no email address; it is checked by us before other users see it, and it is never sent to an AI service.
+- No account and no chat. On iPhone and iPad, the only free text that can be sent is a suggestion posted on the Ideas board, behind the parental gate, with no email address; it is checked by us before other users see it, and it is never sent to an AI service. The optional "Other" text of the first-launch question (section 3 b) exists on Android only, never on iPhone and iPad.
 - Purchases, restoring purchases, links to websites or the stores, and sharing are protected by a parental gate.
 - A parent can turn off crash reports and statistics in Settings at any time.
 
@@ -73,7 +73,7 @@ If you are a parent and have a question about your child's use of the App, write
 6. LEGAL BASES (GDPR)
 
 - Data stored on your device: not processed by us.
-- Crash reports and anonymous usage statistics: our legitimate interest in keeping the App working and improving it, with data minimised so it cannot identify anyone, and a switch to turn it off at any time.
+- Crash reports and anonymous usage statistics (including the optional "Other" text on Android): our legitimate interest in keeping the App working and improving it, with data minimised so it cannot identify anyone, and a switch to turn it off at any time.
 - Purchases: performance of the contract (your subscription or purchase).
 - Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 
