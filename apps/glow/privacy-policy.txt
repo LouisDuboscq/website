@@ -1,6 +1,6 @@
 PRIVACY POLICY — INTERMITTENT FASTING TRACKER (GLOW)
 
-Last updated: October 27, 2026
+Last updated: October 31, 2026
 
 This privacy policy applies to the mobile app published as "Intermittent Fasting Tracker" on Google Play (package name com.appkickstarter.glow, formerly "Gloweee") and as "Intermittent Fasting & Phases" on the App Store (bundle ID com.lduboscq.glow.ios), called "the App" below. It applies from version 2.0 of the App.
 
@@ -57,7 +57,7 @@ c) Purchases
 Subscriptions and the lifetime purchase are processed by Google Play or the App Store; we never see your payment details. To show offers and check your Premium status, the App uses RevenueCat (RevenueCat, Inc., United States), which receives an anonymous user ID, your purchase history (product, dates, renewal status), your device type, App version and country. On iOS, the App also passes Apple's attribution token (AdServices) to RevenueCat to know whether an install came from an Apple Search Ads campaign; this uses no advertising identifier and no tracking.
 
 d) Ideas & feedback board — only what you post
-If you post or vote on the Ideas & feedback board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI, through our own server) so other users can read them. Do not include personal or health information in your posts.
+If you post or vote on the Ideas & feedback board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, sends only the text of the request to the AI service, has it translated and keeps the translation on the board. The AI service receives nothing else from you. Do not include personal or health information in your posts.
 
 The App shows no ads, uses no advertising identifier, and does not sell your personal data.
 
