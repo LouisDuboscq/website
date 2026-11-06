@@ -1,6 +1,6 @@
 PRIVACY POLICY — INTERMITTENT FASTING TRACKER (GLOW)
 
-Last updated: October 31, 2026
+Last updated: November 6, 2026
 
 This privacy policy applies to the mobile app published as "Intermittent Fasting Tracker" on Google Play (package name com.appkickstarter.glow, formerly "Gloweee") and as "Intermittent Fasting & Phases" on the App Store (bundle ID com.lduboscq.glow.ios), called "the App" below. It applies from version 2.0 of the App.
 
@@ -11,7 +11,7 @@ Contact: hey@appkickstarter.com
 
 1. SUMMARY
 
-- Your fasts, fasting days, weigh-ins, plan and settings are stored on your phone only. There is no account.
+- Your fasts, fasting days, weigh-ins, blood ketone and glucose readings, plan and settings are stored on your phone only. There is no account.
 - If you allow it, the App reads your weight from Health Connect (Android) or Apple Health (iOS), and keeps it on your phone (section 3).
 - The App sends anonymous crash reports and anonymous usage statistics, which you can turn off in Settings > What is sent, uses a purchase service for Premium, and sends what you choose to post on the Ideas & feedback board (section 4). It shows no ads.
 
@@ -23,6 +23,7 @@ The following data is stored in the App on your phone and is never sent to our s
 - Your fasts: start and end times, goal and plan
 - Your fasting days (5:2 and alternate-day plans) marked as done
 - Your weigh-ins, entered by hand or imported (section 3)
+- The blood ketone and glucose readings you type from your own meter (optional): the readings you type stay on your device. The App measures nothing and never reads or writes them in Health Connect or Apple Health
 - Your settings: plan, reminder time, language, appearance
 
 Deleting the App deletes this data.
@@ -42,7 +43,7 @@ How this health data is used:
 
 The App's use of information received from Health Connect adheres to the Health Connect Permissions policy, including the Limited Use requirements.
 
-Your fasts and your weight are never included in crash reports or usage statistics.
+Your fasts, your weight and your ketone or glucose readings are never included in crash reports or usage statistics (an event may say that a reading was added, its kind and unit, never its value).
 
 
 4. DATA THAT LEAVES YOUR DEVICE
