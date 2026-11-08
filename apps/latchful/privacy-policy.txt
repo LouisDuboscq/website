@@ -1,0 +1,99 @@
+PRIVACY POLICY — LATCHFUL
+
+Last updated: November 8, 2026
+
+This privacy policy applies to the mobile app "Latchful" (Google Play and App Store name "Latchful: Breastfeeding Timer", package name com.appkickstarter.latchful), called "the App" below.
+
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
+
+Contact: hey@appkickstarter.com
+
+
+1. SUMMARY
+
+- Your feeds stay on your phone: breastfeeding sessions (side, start, end, duration), bottles (time, amount), notes and settings are never sent to us or to anyone else.
+- There is no account, no advertising, no advertising ID and no sale of data.
+- The App only sends data in the cases listed in section 3: purchases (when Premium is offered), the ideas & bugs board or cancellation survey (only what you choose to write), and crash reports and anonymous usage statistics (on by default, you can turn them off at any time).
+
+
+2. DATA STORED ONLY ON YOUR DEVICE
+
+The following data is stored in the App's local database on your phone. It never leaves your device, we cannot access it, and it is not backed up to our servers:
+
+- Your breastfeeding sessions: side (left or right), start time, end time, duration, and the last side used.
+- Your bottles: time and amount.
+- Your history, and anything you edit or add by hand (for example a feed you add afterwards).
+- Your settings and reminders.
+
+If you use Premium export, the file is generated on your phone. It is only saved or shared when you choose to do so, through the app you pick.
+
+Deleting the App deletes all of this data from your phone. The App has no cloud backup in this version.
+
+
+3. DATA THAT LEAVES YOUR DEVICE
+
+a) Purchases — when Premium is offered
+Subscriptions and purchases are processed by Google Play or the App Store; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases. No advertising identifier is used.
+
+b) Ideas & bugs board — only what you post
+If you post or vote on the Ideas & bugs board, the App sends the text you write, your votes, the App's anonymous random identifier (see f below), the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, sends only the text of the request to OpenAI, has it translated and keeps the translation on the board. Do not include personal or health information in your posts.
+
+c) Cancellation survey — only what you answer
+If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language, and the App's anonymous random identifier (see f below) are stored with Supabase to improve the App.
+
+d) Usage statistics — anonymous, on by default, you can turn them off
+Usage statistics and crash reports are on by default, without a question at launch: you can turn them off at any time in Settings > What is sent. Unless you turn them off, the App sends to PostHog (PostHog Inc., EU cloud, servers in the European Union): the steps you go through (for example the onboarding screens, the Premium screen viewed or closed and the plan chosen, "first feed recorded" — never a time, a duration, an amount or anything about your baby), when the App is opened or put in the background, a random identifier created on your phone (replaced after 13 months at most), the App version, your phone model and operating system, language and time zone, and the type of network (Wi-Fi or mobile, and the carrier name). PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. There is no account, no profile and no screen recording, and this data is not linked to your name or email. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+
+We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+
+e) Crash reports — on by default, you can turn them off
+As for usage statistics (see d above), you can turn crash reports off at any time in Settings > What is sent. Unless you turn them off, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens used just before the problem (their names only, never their content), how fast the App starts, when it opens and closes, the App's anonymous random identifier (see f below) and whether you have Premium. It never includes your feeds, bottles, times, notes or anything about your baby. Purpose: finding and fixing bugs. Retention: up to 90 days.
+
+f) The App's anonymous identifier
+When you first open the App, it creates a random identifier (a UUID) for this App only. It is not your name, your email, your phone's advertising ID or any identifier shared with other apps. Your phone's secure storage (iOS Keychain, Android Block Store) can keep it so that it survives a reinstall. The App sends it to Sentry (crash reports), RevenueCat (purchases) and Supabase (ideas & bugs board, cancellation survey), as described above; it is never sent to PostHog. Purpose: recognising the same installation across these services to fix bugs, restore purchases and answer you.
+
+
+4. DEVICE PERMISSIONS
+
+- Notifications: for the reminders you turn on. Reminders are scheduled on your phone; no data is sent.
+- Internet: only for the cases in section 3.
+The App does not ask for your location, contacts, microphone, camera or photos.
+
+
+5. LEGAL BASES (GDPR)
+
+- Data stored on your device (feeds, bottles, notes): not processed by us.
+- Purchases: performance of the contract (your subscription).
+- Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
+- Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
+
+
+6. RETENTION AND YOUR RIGHTS
+
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
+
+You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
+
+
+7. CHILDREN
+
+The App is used by parents. It is not directed to children and we do not knowingly collect data from children. The App never asks for your baby's name or age.
+
+
+8. NOT A MEDICAL APP
+
+The App is a personal feeding log and timer. It is not a medical device and it does not give medical advice, feeding targets or diagnoses. Always follow the guidance of your healthcare professional.
+
+
+9. CHANGES TO THIS POLICY
+
+We may update this policy, for example when the App starts sending something new (such as sharing feeds with your partner, planned for a later version). The date at the top shows the latest version, and important changes are announced in the App.
+
+
+10. CONTACT
+
+Louis Duboscq — Latchful
+Email: hey@appkickstarter.com
