@@ -1,6 +1,6 @@
 PRIVACY POLICY — CALORIES TRACK
 
-Last updated: October 30, 2026
+Last updated: November 9, 2026
 
 This privacy policy applies to the mobile app "Calories Track" (Google Play and App Store listing "Calories Track", package name and iOS bundle identifier com.appkickstarter.caloriestrack), called "the App" below.
 
@@ -14,7 +14,7 @@ Contact: hey@appkickstarter.com
 - Your food log, daily goal and body data (sex, age, height, weight, activity level used by the goal calculator) stay on your phone. They are never sent to us or to anyone else.
 - There is no account, no advertising, no advertising ID and no sale of data.
 - The App does not read Health Connect or Apple Health.
-- The App only sends data in the cases listed in section 4: food search and barcode lookup (Open Food Facts), purchases, crash reports and anonymous usage statistics (on by default, you can turn them off), and the Ideas & bugs board (only what you choose to write).
+- The App only sends data in the cases listed in section 4: food search and barcode lookup (Open Food Facts), purchases, crash reports and anonymous usage statistics (on by default, you can turn them off), the Ideas & bugs board and the cancellation survey (only what you choose to write).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -49,6 +49,9 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 
 e) Usage statistics — anonymous, on by default, you can turn them off
 The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through and which features are used, together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, and the type of network. Events carry no food name, calories or body value. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > What is sent. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
+
+f) Cancellation survey — only if you cancel a subscription from the App
+If you cancel a subscription from the App's Settings, the App may ask why. Only if you answer, it sends the reason you pick, the optional comment you write, the App version, your platform and language and the same anonymous random device identifier to Supabase (Supabase, Inc.), so we can improve the App. You can skip it; do not include personal or health information in the comment.
 
 We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
