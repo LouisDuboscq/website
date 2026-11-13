@@ -1,123 +1,103 @@
-**Last updated:** 02-02-2026
+PRIVACY POLICY — MACRO TRACKER
 
----
+Last updated: November 13, 2026
 
-## Introduction
+This privacy policy applies to the mobile app "Macro Tracker" (Google Play and App Store name "Macro Tracker: Macro Counter", package name com.appkickstarter.macrotracker), called "the App" below.
 
-This Privacy Policy describes how **Simple Macro Tracker** (“the App”) handles data and clarifies its scope and limitations.
+The App is developed and published by Louis Duboscq, an independent developer (developer name on Google Play: "Louis Duboscq"; website: appkickstarter.com). Louis Duboscq is the data controller for the data described in this policy.
 
-The App is designed with a **strict privacy-by-design approach** and **does not collect any user data**.
+Contact: hey@appkickstarter.com
 
----
 
-## No Data Collection – Ever
+1. SUMMARY
 
-**The App does not collect, process, store, transmit, or share any personal data or usage data.**
+- Your food diary, weight, profile and targets stay on your phone. There is no account and no advertising.
+- The App only sends data in the cases listed in section 3: a food search or a scanned barcode (to Open Food Facts), purchases (RevenueCat), the Ideas board and cancellation survey (only what you choose to write), crash reports and anonymous usage statistics (on by default, you can turn them off at any time).
+- Your weigh-ins read from Apple Health or Health Connect are never sent anywhere.
 
-Specifically:
 
-- No personal information
-- No food database syncing
-- No macro entries transmitted
-- No analytics
-- No tracking
-- No advertising identifiers
-- No crash reporting
-- No cookies
-- No third-party SDKs collecting data
+2. DATA STORED ONLY ON YOUR DEVICE
 
-All macro entries remain strictly on your device.
+The following data is stored in the App's local database on your phone. It never leaves your device and we cannot access it:
 
-**Zero data is collected. Zero data leaves the device.**
+- Your profile (age, height, weight, goal, activity) and the calorie and macro targets worked out from it.
+- Your food diary: the foods you log, your own foods and recipes, meals, portions, favourites.
+- Your weigh-ins and the weight trend.
+- Your settings and reminders (scheduled on your phone; nothing is sent).
 
----
+Camera: when you scan a barcode, the camera image is read on your phone and is never sent or stored; only the barcode number is used (see section 3 a).
 
-## No Account, No Identification
+Apple Health (iPhone) and Health Connect (Android), read only: if you turn on "Import my weight" in Settings, the App reads your weigh-ins from Apple Health or Health Connect so your trend stays up to date. They are kept on your phone, never sent to us or to anyone else, never used for advertising, and the App never writes to Apple Health or Health Connect.
 
-The App does **not** require account creation.
+Deleting the App deletes all of this data from your phone.
 
-As a result:
 
-- Users are not identifiable
-- No profiles exist
-- No authentication is performed
-- No cloud storage is used
-- No data can be linked to a person
+3. DATA THAT LEAVES YOUR DEVICE
 
-We do not know who uses the App.
+a) Food search and barcode lookup (Open Food Facts) — only when you search or scan
+When you search for a food by name or scan a barcode, the text you typed or the scanned barcode number is sent to the Open Food Facts public database (Open Food Facts, a non-profit association, world.openfoodfacts.org) to get the product and its nutrition values. No account, name or advertising identifier is sent with it. Open Food Facts data is open data published under the Open Database License (ODbL).
 
----
+b) Purchases — when Premium is offered
+Subscriptions and purchases are processed by the App Store or Google Play; we never see your payment details. To check your Premium status, the App uses RevenueCat (RevenueCat, Inc.), which receives an anonymous app user ID and your purchase history (product, dates, renewal status). Purpose: unlocking Premium and restoring purchases. If you installed the App from an Apple Ads advertisement (App Store search ads), RevenueCat also receives from Apple which ad campaign and keyword led to the install (Apple's standard attribution data, iOS only). No advertising identifier is used and nothing is used to track you across other companies' apps or websites. On Android, if you installed the App from one of our ad links, the App reads once, from Google Play, the campaign name written in that link and sends it to RevenueCat and with the usage statistics below; it is a label of our own link, not an identifier, and it follows the usage statistics switch.
 
-## Local-Only Processing
+c) Ideas board — only what you post
+If you post or vote on the Ideas board, the App sends the text you write, your votes, an anonymous random identifier created on your phone, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Posts are checked by the developer before other users can see them. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI): a server function of ours, hosted with Supabase, reads the post, has it translated and keeps the translation on the board. Do not include personal or health information in your posts.
 
-Simple Macro Tracker operates **entirely on-device**.
+d) Cancellation survey — only what you answer
+If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, the App, your platform, store and language are stored with Supabase to improve the App.
 
-- All macro entries are stored locally
-- All calculations are performed locally
-- No synchronization with external servers
-- No backup to remote databases
-- No external API calls
+e) Usage statistics — anonymous, on by default, you can turn them off
+Usage statistics and crash reports are on by default: you can turn them off at any time in Settings > What is sent. Unless you turn them off, the App sends to PostHog (PostHog Inc., EU cloud, servers in the European Union): the steps you go through (for example the Premium screen viewed or closed and the plan chosen, "food logged"; never the food, a calorie value, a weight or a note), when the App is opened or put in the background, a random identifier created on your phone, the App version, your phone model and operating system, language and time zone, and the type of network. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. There is no account, no profile and no screen recording. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
 
-Uninstalling the App permanently removes all stored data from the device.
+f) Crash reports — on by default, you can turn them off
+Unless you turn them off (Settings > What is sent), the App sends technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and where it happened, phone model, operating system and App version, the screens used just before the problem (their names only, never their content), how fast the App starts, and a random identifier created on your phone. It never includes your diary, foods, weight or profile. Purpose: finding and fixing bugs. Retention: up to 90 days.
 
----
+We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
-## Data Access, Deletion & Legal Requests
 
-Because the App **does not collect or store any data externally**:
+4. DEVICE PERMISSIONS
 
-- We cannot access your macro data
-- We cannot retrieve, export, or delete data remotely
-- We cannot respond to GDPR / CCPA data access or deletion requests, as we do not possess any user data
+- Camera: to scan food barcodes. Images stay on your phone (see section 2).
+- Apple Health / Health Connect: to read your weigh-ins, only if you turn it on (see section 2).
+- Notifications: for the daily reminder and the weekly check-in note, if you turn them on. Scheduled on your phone; no data is sent.
+- Internet: only for the cases in section 3.
 
-All data control remains solely with the user via their own device.
 
----
+5. LEGAL BASES (GDPR)
 
-## Children’s Privacy
+- Data stored on your device: not processed by us.
+- Food search and barcode lookup: your request (you start the search or the scan).
+- Purchases: performance of the contract (your subscription).
+- Ideas board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
+- Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
+- Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it; legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 
-The App is **not specifically designed for children**.
+Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
 
-- The App does not knowingly collect data from children
-- No personal information is processed
 
-As no data collection occurs, no children’s personal data is stored or transmitted.
+6. RETENTION AND YOUR RIGHTS
 
----
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
 
-## Informational Disclaimer
+You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. Without an account we only have anonymous identifiers, so tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
-Simple Macro Tracker provides **informational tracking tools only**.
 
-- The App does not provide medical advice
-- The App does not replace professional healthcare consultation
-- Users are responsible for how they interpret and use their data
+7. CHILDREN
 
-Always consult a qualified healthcare provider for medical or nutritional concerns.
+The App is not directed to children and we do not knowingly collect data from children.
 
----
 
-## Limitation of Liability
+8. NOT A MEDICAL APP
 
-To the maximum extent permitted by law:
+The App gives general wellness estimates (calories, macros, weight trend). It is not a medical device and does not give medical advice. Consult a doctor before any medical decision, and follow the guidance of your healthcare professional.
 
-- The App’s creators assume no responsibility for decisions made based on tracked data
-- No guarantees are made regarding accuracy, completeness, or fitness for a particular purpose
 
-Use of the App is at your own discretion.
+9. CHANGES TO THIS POLICY
 
----
+We may update this policy, for example when the App starts sending something new. The date at the top shows the latest version, and important changes are announced in the App.
 
-## Changes to This Policy
 
-This Privacy Policy may be updated from time to time.
+10. CONTACT
 
-Any changes will be reflected in the App or its store listing.
-
----
-
-## Contact
-
-If you have questions regarding this Privacy Policy:
-
-**Email:** hey@appkickstarter.com
+Louis Duboscq — Macro Tracker
+Email: hey@appkickstarter.com
