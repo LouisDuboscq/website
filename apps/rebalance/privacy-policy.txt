@@ -1,6 +1,6 @@
 PRIVACY POLICY — REBALANCE
 
-Last updated: October 30, 2026
+Last updated: November 15, 2026
 
 This privacy policy applies to the mobile app "Rebalance" (Google Play and App Store listing "Rebalance Insulin & Metabolism", package name and iOS bundle identifier com.appkickstarter.rebalance), called "the App" below.
 
@@ -13,7 +13,7 @@ Contact: hey@appkickstarter.com
 
 - Everything you enter (meals and snacks with their times, daily levers, cravings and energy ratings, waist measurements, quiz answers, program progress) stays on your phone. It is never sent to us or to anyone else.
 - There is no account, no advertising, no advertising ID and no sale of data.
-- The App does not read Health Connect or Apple Health.
+- If you choose to connect it, the App reads your step counts from Health Connect (Android) or Apple Health (iOS) to show your steps. They stay on your phone, are never sent, never sold and never used for advertising. The App never writes to Health Connect or Apple Health. See section 3.
 - The App only sends data in the cases listed in section 4: purchases, crash reports and anonymous usage statistics (on by default, you can turn them off), and the Ideas & bugs board (only what you choose to write).
 
 
@@ -30,9 +30,24 @@ The following data is stored in the App's local database or settings on your pho
 Deleting the App deletes all of this data. You can also delete individual meals at any time in the App.
 
 
-3. HEALTH-RELATED INFORMATION
+3. HEALTH DATA (HEALTH CONNECT ON ANDROID, APPLE HEALTH ON IOS)
 
-The App is a wellness tool. The wellness information you enter (meals, cravings, energy, waist) is health-related, so we state it plainly: it is stored only on your device, it is never sent to a server, never shared with or sold to anyone, and never used for advertising or profiling. The App does not connect to Health Connect, Apple Health or any other health platform. Usage statistics only say that something was noted (for example that a meal or a rating was saved, or the length of a streak), never the time, the value or the content.
+a) Information you enter
+The App is a wellness tool. The wellness information you enter (meals, cravings, energy, waist) is health-related, so we state it plainly: it is stored only on your device, it is never sent to a server, never shared with or sold to anyone, and never used for advertising or profiling. Usage statistics only say that something was noted (for example that a meal or a rating was saved, or the length of a streak), never the time, the value or the content.
+
+b) Your steps (optional)
+If you choose "Show my steps" and grant permission, the App reads the following health data:
+
+- Step counts: your daily totals, and your steps over the day in short time slices (for example the steps in the hour after a meal). Android: Health Connect permission READ_STEPS. iOS: Apple Health, read access to step count.
+- Android only: up to 30 days of past step counts from before you connected, so the App can show your last days and your goal calendar (Health Connect permission READ_HEALTH_DATA_HISTORY).
+
+How this health data is used:
+- It is read only to show your daily steps, your steps goal, your streak and your steps after each meal inside the App, and to tick the "walk after a meal" lever for you when you walked after a meal.
+- It is read from Health Connect or Apple Health each time the screens are shown and is processed on your device only. It is not copied to our servers, never sent to anyone, never shared with or sold to anyone, and never used for advertising, marketing, profiling, data mining or any purpose other than showing you your own steps. The usage statistics in section 4 never contain a step count.
+- The App never writes, changes or deletes any data in Health Connect or Apple Health, and stores no health data in iCloud.
+- Access is optional and the rest of the App works without it. You can remove the permission at any time in Health Connect (Android: Settings > Security and Privacy > Privacy Controls > Health Connect, or search "Health Connect" in Settings) or in the iOS Health app (Sharing > Apps > Rebalance), and you can turn it off in the App in Settings > Your steps.
+
+The App's use of information received from Health Connect adheres to the Health Connect Permissions policy, including the Limited Use requirements. Health data from Apple Health is used only to provide the features described above, in line with Apple's App Store Review Guidelines (5.1.3).
 
 
 4. DATA THAT LEAVES YOUR DEVICE
@@ -55,7 +70,8 @@ We do not use any advertising SDK, we do not track you across apps or websites, 
 5. DEVICE PERMISSIONS
 
 - Internet: only for the cases in section 4.
-- The App asks for no camera, location, contacts, microphone or health permission.
+- Health Connect (Android) / Apple Health (iOS): optional, read-only step counts, see section 3.
+- The App asks for no camera, location, contacts or microphone permission.
 
 
 6. LEGAL BASES (GDPR)
