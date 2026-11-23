@@ -1,6 +1,6 @@
 PRIVACY POLICY — REBALANCE
 
-Last updated: November 20, 2026
+Last updated: November 23, 2026
 
 This privacy policy applies to the mobile app "Rebalance" (Google Play and App Store listing "Rebalance Insulin & Metabolism", package name and iOS bundle identifier com.appkickstarter.rebalance), called "the App" below.
 
@@ -66,7 +66,10 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 d) Usage statistics — anonymous, on by default, you can turn them off
 The App sends to PostHog (PostHog Inc., posthog.com, servers in the European Union) which screens and steps you go through and which features are used, together with a random identifier created for this install (replaced after 13 months at most), the App version, your phone model, operating system, language and time zone, and the type of network. Events say only that an action happened, for example the kind of entry noted (meal or snack), the lever id and the streak length; never a time, a value, your meals, ratings or measurements. PostHog also works out your country from your internet address when the statistics arrive; only the country is kept, not the address, region or city. We do not link it to your name or email, we do not build a profile of you, and there is no screen recording. You can turn this off at any time in Settings > What is sent. Purpose: understanding which features and screens help, to improve the App. Retention: up to 1 year.
 
-We do not use any advertising SDK, we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
+e) Ad measurement (Android, only if you came from one of our ads)
+If you came from one of our ads (Android only), the App tells our measurement partner Tenjin (Tenjin, Inc., tenjin.com) that it was installed, with your device's advertising identifier, your IP address and the device model, so we know which ad brought you and whether you later started a trial. Tenjin passes this to the ad network that showed the ad (TikTok, Meta, Google). In the EU, the UK and Switzerland this happens only if you allow it (it is off and never asked there until you turn it on); elsewhere it is on by default; everywhere you can turn it off at any time in Settings > What is sent. iPhone: nothing is sent to Tenjin. Purpose: measuring our own ads. Retention: as long as needed to measure the campaigns, up to 2 years.
+
+We do not track you across apps or websites, and we do not sell personal data to data brokers or advertisers. The only advertising-related data is the ad measurement described in section 4 e).
 
 
 5. DEVICE PERMISSIONS
@@ -82,6 +85,7 @@ We do not use any advertising SDK, we do not track you across apps or websites, 
 - Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Purchases: performance of the contract (your subscription or purchase).
+- Ad measurement (Android): your consent in the EU, the UK and Switzerland (Article 6(1)(a) GDPR, withdrawable at any time in Settings > What is sent); elsewhere our legitimate interest in measuring our own ads.
 - Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
@@ -89,7 +93,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 7. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year, ad measurement up to 2 years. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 4 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
