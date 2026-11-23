@@ -1,6 +1,6 @@
 PRIVACY POLICY — SIMPLE PROTEIN TRACKER
 
-Last updated: October 31, 2026 (now also covers the iPhone app)
+Last updated: November 23, 2026 (ad measurement on Android)
 
 This privacy policy applies to the Android and iPhone (iOS) app "Simple Protein Tracker", called "the App" below. On Android: Google Play listing "Simple Protein Tracker", French listing "Suivi Simple des Protéines", package name com.appkickstarter.proteintracker. On iPhone (iOS): App Store listing "Simple Protein Tracker: Log", bundle ID com.appkickstarter.proteintracker.
 
@@ -51,13 +51,16 @@ If you post or vote on the Ideas & bugs board, the App sends the text you write,
 g) Barcode scan and food search — Open Food Facts
 When you scan a pack's barcode or search a food by name, the App asks Open Food Facts (Open Food Facts association, openfoodfacts.org, an open food database) for that product: it sends the barcode or the text you typed, with the App's name, and, as for any internet request, your IP address. Nothing else: not your entries, your goal or an identifier. The camera image of the scan is read on your phone and never sent. Products you look up are kept on your phone so recent foods work offline. Open Food Facts' privacy policy: https://world.openfoodfacts.org/privacy
 
+h) Ad measurement (Android, only if you came from one of our ads)
+If you came from one of our ads, the App tells our measurement partner Tenjin (Tenjin, Inc., tenjin.com) that it was installed, with your device's advertising identifier, your IP address and the device model, so we know which ad brought you and whether you later started a trial. Tenjin passes this to the ad network that showed the ad (TikTok, Meta, Google). In the EU, the UK and Switzerland this happens only if you allow it; everywhere you can turn it off at any time in Settings > What is sent. Purpose: measuring our own ads. Retention: as long as needed to measure the campaigns, up to 2 years.
+
 We do not sell your data and we do not share it with data brokers.
 
 
 4. DEVICE PERMISSIONS
 
 - Internet: only for ads, purchases, usage statistics, crash reports, the ideas & bugs board and the barcode / food lookups (section 3).
-- Advertising ID (Android only): only for ads (section 3 a). On iPhone, the App does not access the advertising identifier (IDFA) and does not show the App Tracking Transparency prompt.
+- Advertising ID (Android only): only for ads (section 3 a) and for ad measurement (section 3 h). On iPhone, the App does not access the advertising identifier (IDFA) and does not show the App Tracking Transparency prompt.
 - Notifications: for the evening reminder you turn on; it is scheduled on your phone and no data is sent.
 - Camera (Android and iPhone): only while you scan a barcode, read on your phone, never recorded or sent.
 - Health data: the App does not read or write Health Connect or Apple Health (HealthKit) data.
@@ -68,6 +71,7 @@ We do not sell your data and we do not share it with data brokers.
 - Data stored on your device: not processed by us.
 - Ads: your consent for personalized ads and for storing or accessing information on your device; Google's own legal bases for non-personalized ads.
 - Purchases: performance of the contract (your purchase or subscription).
+- Ad measurement (Tenjin): your consent in the EU, the UK and Switzerland, our legitimate interest in measuring our advertising elsewhere (you can turn it off in the App).
 - Barcode scan and food search: performance of the service you ask for (looking the product up).
 - Ideas & bugs board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
 - Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
