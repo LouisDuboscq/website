@@ -14,7 +14,7 @@ Contact: hey@appkickstarter.com
 - Your household, your emergency kit and your progress stay on your phone. They are never sent to us or to anyone else.
 - There is no account, no advertising in the App, no advertising ID and no sale of data. Anonymous usage statistics are on by default and you can turn them off at any time (section 3).
 - The App sends data only for purchases (to know whether you have Premium), to know which Apple Ads ad brought your
-  install, when you post or vote on the Ideas board, and anonymous usage statistics unless you turn them off (section 3).
+  install, when you post or vote on the Ideas board or answer the cancellation survey, and anonymous crash reports and usage statistics unless you turn them off (section 3).
 
 
 2. DATA STORED ONLY ON YOUR DEVICE
@@ -44,12 +44,18 @@ On the first launch, after you describe your household, a short screen tells you
 
 e) Ad measurement (Android, only if you came from one of our ads): if you came from one of our ads, the App tells our measurement partner Tenjin (Tenjin, Inc., tenjin.com) that it was installed, with your device's advertising identifier, your IP address and the device model, so we know which ad brought you and whether you later started a trial. Tenjin passes this to the ad network that showed the ad (TikTok, Meta, Google). In the EU, the UK and Switzerland this happens only if you allow it; everywhere you can turn it off at any time in Settings > Privacy > "What is sent". Purpose: measuring our own ads. Retention: as long as needed to measure the campaigns, up to 2 years.
 
+f) Crash reports — anonymous, on by default, you can turn them off
+Crash reports are on by default, without a question at launch; you can turn them off at any time in Settings > Privacy > "What is sent". If you said no in an earlier version of the App, that choice is kept. Unless you turn them off, the App sends anonymous technical data to Sentry (Functional Software, Inc., sentry.io), our crash reporting provider: the error and the place in the code where it happened (crashes, handled errors, and moments when the App freezes or stops responding), your phone model, operating system and App version, whether the App ran without crashing during a session, how fast the App starts and its screens load (on a sample of sessions), a random identifier created for this install, and three labels: whether you have Premium, which plan, and which store the App came from. It never includes your name or email, your household, the items you tick or their quantities, screenshots, screen recordings or the content of your screens. Purpose: finding and fixing bugs and keeping the App stable. Retention: up to 90 days.
+
+g) Cancellation survey — only what you answer
+If you cancel your subscription from inside the App, you can tell us why. The reason you pick, the optional comment you write, your plan (and whether it was a trial), how long you had been subscribed, your platform, the App version, your language and an anonymous random install identifier are stored with Supabase (Supabase, Inc.) to improve the App. Never your household or your kit. Do not include personal or health information in the comment.
+
 Nothing else is sent: we do not track you across apps or websites, and we do not sell or share personal data with data brokers or advertisers.
 
 
 4. DEVICE PERMISSIONS
 
-- Internet: only for purchases, Apple Ads attribution, ad measurement on Android, the Ideas board and usage statistics unless you turn them off (section 3). Your kit works fully offline.
+- Internet: only for purchases, Apple Ads attribution, ad measurement on Android, the Ideas board, the cancellation survey, and crash reports and usage statistics unless you turn them off (section 3). Your kit works fully offline.
 
 
 5. LEGAL BASES (GDPR)
@@ -58,7 +64,8 @@ Nothing else is sent: we do not track you across apps or websites, and we do not
 - Purchases: performance of the contract (giving you Premium).
 - Apple Ads attribution: our legitimate interest in measuring our advertising, without any advertising identifier.
 - Ad measurement (Android): your consent in the EU, the UK and Switzerland; elsewhere our legitimate interest in measuring our advertising, with an off switch in the App.
-- Ideas board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+- Ideas board, cancellation survey: your consent when you choose to post, vote or answer, and our legitimate interest in improving the App.
+- Crash reports: our legitimate interest in finding and fixing bugs and keeping the App stable (Article 6(1)(f) GDPR). You can object at any time by turning them off in Settings > Privacy > "What is sent".
 - Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses).
@@ -66,7 +73,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 6. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Purchase records are kept by RevenueCat as long as needed to restore your purchases and for accounting obligations. Usage statistics are kept up to 1 year. Board posts are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Purchase records are kept by RevenueCat as long as needed to restore your purchases and for accounting obligations. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it. You can also complain to your data protection authority (in France: the CNIL).
 
@@ -83,7 +90,7 @@ The App is an independent preparedness tool based on public guidance (in France,
 
 9. CHANGES TO THIS POLICY
 
-We may update this policy, for example when the App starts sending something new (such as crash reports). The date at the top shows the latest version, and important changes are announced in the App.
+We may update this policy, for example when the App starts sending something new (such as a new kind of data or a new provider). The date at the top shows the latest version, and important changes are announced in the App.
 
 
 10. CONTACT
