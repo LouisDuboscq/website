@@ -1,6 +1,6 @@
 PRIVACY POLICY — INTERMITTENT FASTING TRACKER (GLOW)
 
-Last updated: November 13, 2026
+Last updated: November 25, 2026
 
 This privacy policy applies to the mobile app published as "Intermittent Fasting Tracker" on Google Play (package name com.appkickstarter.glow, formerly "Gloweee") and as "Intermittent Fasting & Phases" on the App Store (bundle ID com.lduboscq.glow.ios), called "the App" below. It applies from version 2.0 of the App.
 
@@ -62,12 +62,15 @@ if you came from one of our ads, the App tells our measurement partner Tenjin (T
 e) Ideas & feedback board — only what you post
 If you post or vote on the Ideas & feedback board, the App sends the text you write, your votes, an anonymous random device identifier, the App version, your platform and language, and your email address only if you choose to enter it (it is never shown publicly and only used to reply to you). Requests can be shown to other users of the App. They are stored with Supabase (Supabase, Inc.), and their text may be translated into other languages by an AI service (OpenAI) so other users can read them: a server function of ours, hosted with Supabase, sends only the text of the request to the AI service, has it translated and keeps the translation on the board. The AI service receives nothing else from you. Do not include personal or health information in your posts.
 
+f) Notifications sent by us — only if you allow notifications
+When you allow the App's notifications and "My subscription" is on (Settings > Fasting reminder, on by default), the App registers your phone with our server so we can send you notifications ourselves, for example when your free trial was cancelled, to tell you the day Premium ends. These messages are informative: they never contain a price or an offer. The "Tips & offers" switch is the only way you receive tips or offers from us. The App then sends, at most once a day: a push notification token (the address Apple or Google gives your phone for notifications), the App's random user identifier and the RevenueCat identifier described in c), your platform, the App's language, your time zone, your country (from your phone's region settings), the App version, your choices for "My subscription", "Tips & offers" and the usage statistics, and three days (not times): the last day you opened the App, the day you started your first fast and the last day you started or ended a fast. When you open one of our notifications, the App tells our server that this message was opened. It never sends your fasts, their times, your weight, notes, readings or any health data. This data is stored with Supabase (Supabase, Inc.), linked to the App's user identifier, and the notifications themselves are delivered by Apple (Apple Push Notification service) or Google (Firebase Cloud Messaging), which only carry them. If usage statistics are on, we also count in PostHog whether a notification was sent and opened (no profile). Purpose: telling you what happens to your subscription. Retention: up to 13 months after your last activity. Stop at any time: turn off "My subscription" (and "Tips & offers") in Settings > Fasting reminder, or turn off the App's notifications in your phone's settings; your phone's registration is then deleted from our server.
+
 The App shows no ads, uses no advertising identifier except for the ad measurement described above (Android, only if you came from one of our ads), and does not sell your personal data.
 
 
 5. DEVICE PERMISSIONS
 
-- Notifications: for the reminders you turn on (start of your fast, eve of a fasting day) and the "goal reached" notification, all scheduled on your phone.
+- Notifications: for the reminders you turn on (start of your fast, eve of a fasting day) and the "goal reached" notification, scheduled on your phone (no data is sent), and for the notifications we send about your subscription (section 4f).
 - Health Connect / Apple Health (weight, read only): section 3.
 - Internet: for the services in section 4.
 
@@ -79,6 +82,7 @@ The App shows no ads, uses no advertising identifier except for the ad measureme
 - Ad measurement (section 4d): your consent in the EU, the UK and Switzerland, our legitimate interest in measuring our own ads elsewhere; you can turn it off at any time in the App.
 - Purchases: performance of the contract (your subscription or purchase).
 - Ideas & feedback board: your consent when you choose to post or vote, and our legitimate interest in improving the App.
+- Notifications sent by us about your subscription (section 4f): performance of the contract (informing you about your subscription) and our legitimate interest; you can turn them off at any time (Settings > Fasting reminder > My subscription). Tips & offers: your consent.
 
 Data sent to our providers may be processed outside the European Union (in particular in the United States), under the safeguards those providers offer (such as Standard Contractual Clauses and the EU-U.S. Data Privacy Framework).
 
