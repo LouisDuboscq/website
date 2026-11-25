@@ -13,7 +13,7 @@ Contact: hey@appkickstarter.com
 
 - Your health logs stay on your phone: dinners and meals, symptoms, how your nights and mornings went, notes and settings are never sent to us or to anyone else.
 - There is no account, no advertising, no advertising ID and no sale of data.
-- The App only sends data in the cases listed in section 3: purchases (when Premium is offered), the ideas & bugs board or cancellation survey (only what you choose to write), and crash reports and anonymous usage statistics (on by default, you can turn them off at any time).
+- The App only sends data in the cases listed in section 3: purchases (when Premium is offered), the ideas & bugs board or cancellation survey (only what you choose to write), crash reports and anonymous usage statistics (on by default, you can turn them off at any time), and, when you allow notifications, what we need to send you notifications about your subscription (section 3 g).
 - The App does not connect to Apple Health or Health Connect and does not read any health data from other apps.
 
 
@@ -55,9 +55,13 @@ f) The App's anonymous identifier
 When you first open the App, it creates a random identifier (a UUID) for this App only. It is not your name, your email, your phone's advertising ID or any identifier shared with other apps. Your phone's secure storage (iOS Keychain, Android Block Store) can keep it so that it survives a reinstall. The App sends it to Sentry (crash reports), RevenueCat (purchases) and Supabase (ideas & bugs board, cancellation survey), as described above; it is never sent to PostHog. Purpose: recognising the same installation across these services to fix bugs, restore purchases and answer you.
 
 
+g) Notifications sent by us — only if you allow notifications
+When you allow the App's notifications and "My subscription" is on (Settings > Your nights, on by default), the App registers your phone with our server so we can send you notifications ourselves, for example when your free trial was cancelled, to tell you the day Premium ends. These messages are informative: they never contain a price or an offer. The "Tips & offers" switch (off until you turn it on on iPhone) is the only way you receive tips or offers from us. The App then sends, at most once a day: a push notification token (the address Apple or Google gives your phone for notifications), the App's anonymous identifier described in f) and the RevenueCat identifier, your platform, the App's language, your time zone, your country (from your phone's region settings), the App version, your choices for "My subscription", "Tips & offers" and the usage statistics, and three days (not times): the last day you opened the App, the day you first logged a dinner and the last day you logged a dinner or a morning check-in. When you open one of our notifications, the App tells our server that this message was opened. It never sends what you logged: no meal, symptom, night, remedy or score. This data is stored with Supabase (Supabase, Inc.), linked to the App's anonymous identifier, and the notifications themselves are delivered by Apple (Apple Push Notification service) or Google (Firebase Cloud Messaging), which only carry them. If usage statistics are on, we also count in PostHog whether a notification was sent and opened (no profile). Purpose: telling you what happens to your subscription. Retention: up to 13 months after your last activity. Stop at any time: turn off "My subscription" (and "Tips & offers") in Settings > Your nights, or turn off the App's notifications in your phone's settings; your phone's registration is then deleted from our server.
+
+
 4. DEVICE PERMISSIONS
 
-- Notifications: for the reminders you turn on (for example the evening dinner reminder and the morning check-in). Reminders are scheduled on your phone; no data is sent.
+- Notifications: for the reminders you turn on (for example the evening dinner reminder and the morning check-in). Reminders are scheduled on your phone; no data is sent. Also for the notifications we send about your subscription (section 3 g).
 - Internet: only for the cases in section 3.
 The App does not ask for your location, contacts, microphone, camera or photos.
 
@@ -67,6 +71,7 @@ The App does not ask for your location, contacts, microphone, camera or photos.
 - Data stored on your device (meals, symptoms, notes): not processed by us.
 - Purchases: performance of the contract (your subscription).
 - Ideas & bugs board, cancellation survey: your consent when you choose to send them, and our legitimate interest in improving the App.
+- Notifications sent by us about your subscription: performance of the contract (informing you about your subscription) and our legitimate interest; you can turn them off at any time (Settings > Your nights > My subscription). Tips & offers: your consent.
 - Crash reports: our legitimate interest in finding and fixing bugs (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 - Usage statistics: anonymous measurement of how the App is used, limited to what is needed to improve it, which the French data protection authority allows without prior consent (CNIL guidelines on audience measurement: anonymous statistics for this App only, no profile, identifier replaced after 13 months at most, kept up to 1 year); legal basis: our legitimate interest in improving the App (Article 6(1)(f) GDPR). You can object at any time by turning them off in the App.
 
@@ -75,7 +80,7 @@ Data sent to our providers may be processed outside the European Union (in parti
 
 6. RETENTION AND YOUR RIGHTS
 
-Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year. Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
+Data on your device stays there until you delete it or the App. Crash reports are kept up to 90 days, usage statistics up to 1 year, the data for our notifications up to 13 months after your last activity (deleted sooner when you turn them off). Board posts and survey answers are kept as long as the board or the App exists, unless you ask us to delete them.
 
 You can ask to access, correct or delete the data described in section 3 (for example your board posts or the email you gave), or object to its processing, by writing to hey@appkickstarter.com. As we have no account and only anonymous identifiers, tell us the text of your post or the email you used so we can find it.
 
